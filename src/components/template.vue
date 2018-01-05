@@ -7,21 +7,19 @@
                 <li v-for="answer of item.answers" :key="answer" v-text="answer"></li>
             </ul>
         </div>
-        
     </div>
-  
 </template>
 <script>
 export default {
     props:{
         subject:{
             type: String,
-            default: '英语'
+            default: ''
         },
-        list: []
-
+        list: {
+            type: Array
+        }
     }
-  
 }
 </script>
 

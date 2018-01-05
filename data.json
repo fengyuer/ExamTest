@@ -1,0 +1,31 @@
+{
+	"english":[
+		{
+			"id": "1",
+			"content":"It is a common theme in many science fiction stories that the world may one day be __ by insects.",
+			"answers":["broken in","run over","taken over","filled in"]
+		},{
+			"id":"2",
+			"content":"You didn't let me drive. If we ________ in turn, you _________ so tired. ",
+			"answer":["drove; didn't get", "drove; wouldn't get", "were driving; wouldn't get", "had driven; wouldn't have got"]
+		},{
+			"id":"3",
+			"content":"Husband and wife with a common duty to the country will find themselves _____ closer together. ",
+			"answer":["been drawn", "to draw", "drawn", "drawing"]
+		},{
+			"id":"4",
+			"content":"It is so hot. You should put the food into the refrigerator now. Otherwise, it will soon ______. ",
+			"answer":["harm", "hurt", "spoil", "damage"]
+		},{
+			"id":"5",
+			"content":"I signed the letter at the ______ of the page.",
+			"answer":["bottom", "end", "base", "root"]
+		},{
+			"id":"6",
+			"content":"—“What is the weather like there?”  —“Hawaii has rather mild weather _______ other places.”",
+			"answer":["comparing with", "comparing to", "compared with", "compared to"]
+		}
+	],
+	"Math":[],
+	"Computer":[]
+}

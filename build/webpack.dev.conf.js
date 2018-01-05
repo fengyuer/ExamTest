@@ -1,4 +1,12 @@
 'use strict'
+const axios = require('axios')
+const express = require('express')
+const app = express()
+const appData = require('../data.json')
+const english = appData.english
+const apiRoutes = express.Router()
+app.use('/api',apiRoutes)
+
 const utils = require('./utils')
 const webpack = require('webpack')
 const config = require('../config')
@@ -22,6 +30,14 @@ const devWebpackConfig = merge(baseWebpackConfig, {
 
   // these devServer options should be customized in /config/index.js
   devServer: {
+    before(app){
+      app.get('api/english',(req,res) => {
+        res.json({
+          errno: 0,
+          data: English
+        })
+      })
+    },
     clientLogLevel: 'warning',
     historyApiFallback: {
       rewrites: [
