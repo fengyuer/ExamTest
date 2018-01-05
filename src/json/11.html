@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>英语</title>
+		<style type="text/css">
+			div{
+	            display: none;
+	        }
+		</style>
+		<script type="text/javascript">
+			window.onload = function(){
+            var t1 = Math.random();
+            var t2 = Math.random();
+             
+            t1 =  parseInt(t1*10)%4+1;
+            t2 =  parseInt(t2*10)%4+1;
+             
+            while( t1 == t2 ){
+                t1 = Math.random();
+                t2 = Math.random();
+                t1 =  parseInt(t1*10)%4+1;
+                t2 =  parseInt(t2*10)%4+1;
+            }
+             
+             
+             
+            t1 = document.getElementById('m'+t1);
+            t2 = document.getElementById('m'+t2);
+             
+            t1.style.display = "block";
+            t2.style.display = "block";
+        }
+		</script>
+	</head>
+	<body>
+		<div id="m1">
+            题目1
+        </div>
+        <div id="m2">
+            题目2
+        </div>
+        <div id="m3">
+            题目3
+        </div>
+        <div id="m4">
+            题目4
+        </div>
+	</body>
+</html>
