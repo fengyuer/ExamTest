@@ -36,16 +36,31 @@ export default {
     },
     methods:{
         change(way){
-            let lastIndex = this.list.length - 1
+            let lastIndex = this.list.length - 1;
+
+            let nextIndex
+            let options = []
 
             if(way === 'pre'){
+                nextIndex = this.curIndex - 1
+                options = this.list[nextIndex].answers
+                console.log(options)
+                options.sort(this.randomSort)
                 this.curIndex --
             }else{
+                nextIndex = this.curIndex + 1
+                options = this.list[nextIndex].answers
+                console.log(options)
+                options.sort(this.randomSort)
                 this.curIndex ++
-
             }
             this.curIndex === 0 ? this.isFirst = true : this.isFirst = false
             this.curIndex === lastIndex ? this.isLast = true : this.isLast = false
+        },
+        // 随机排序
+        randomSort(a,b){
+            //通过随机产生0到1的数，然后判断是否大于0.5从而影响排序，产生随机性的效果。
+            return Math.random()> .5 ? -1 : 1
         }
     }
 }
