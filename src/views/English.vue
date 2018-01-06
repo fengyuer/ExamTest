@@ -15,9 +15,10 @@ export default {
             EnglistList:[]
         }
     },
-    created(){
-        console.log("begin")
-        this.getData()
+    beforeRouteEnter(to, from, next) {
+        next(Vm =>{
+            Vm.getData()
+        })
     },
     methods:{
         getData(){

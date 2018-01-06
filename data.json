@@ -2,28 +2,40 @@
 	"English":[
 		{
 			"id": "1",
-			"content":"It is a common theme in many science fiction stories that the world may one day be __ by insects.",
-			"answers":["broken in","run over","taken over","filled in"]
+			"content": "It is a common theme in many science fiction stories that the world may one day be __ by insects.",
+			"answers": ["broken in","run over","taken over","filled in"],
+			"correct": "taken over",
+			"analysis": "<p>许多科幻小说中的一个共同主题是，有一天世界可能会被昆虫（卑微的人）接管。</p><p>broken in 打断</p><p>run over 超出</p><p>take over 接收 接管</p><p>Fill in 填满，填充</p>"
 		},{
-			"id":"2",
-			"content":"You didn't let me drive. If we ________ in turn, you _________ so tired. ",
-			"answers":["drove; didn't get", "drove; wouldn't get", "were driving; wouldn't get", "had driven; wouldn't have got"]
+			"id": "2",
+			"content": "You didn't let me drive. If we ________ in turn, you _________ so tired. ",
+			"answers": ["drove; didn't get", "drove; wouldn't get", "were driving; wouldn't get", "had driven; wouldn't have got"],
+			"correct": "had driven; wouldn't have got",
+			"analysis": "<p>这句话的意思是你没让我开车.（这是真实句）如果我们轮流开车,你就不会那样累!（这句话是虚拟,表示和过去事实相反的虚拟）。</p><p>考查虚拟语气。本题是考查与过去事实相反的虚拟语气，从句用过去完成时，主句使用情态动词+have done的形式</p>"
 		},{
 			"id":"3",
-			"content":"Husband and wife with a common duty to the country will find themselves _____ closer together. ",
-			"answers":["been drawn", "to draw", "drawn", "drawing"]
+			"content": "Husband and wife with a common duty to the country will find themselves _____ closer together. ",
+			"answers": ["been drawn", "to draw", "drawn", "drawing"],
+			"correct": "drawn",
+			"analysis": "<p>这是及物动词find的复合结构，主语和宾补的动作是被动关系，用过去分词。</p>"
 		},{
 			"id":"4",
 			"content":"It is so hot. You should put the food into the refrigerator now. Otherwise, it will soon ______. ",
-			"answers":["harm", "hurt", "spoil", "damage"]
+			"answers": ["harm", "hurt", "spoil", "damage"],
+			"correct": "spoil",
+			"analysis": "<p>harm v. 伤害； n.伤害，损害</p><p>hurt v.使受伤，使痛心</p>spoil v. 溺爱；（食物）变质；损坏<p></p><p>damage v.损害，毁坏； n.损害</p><p>天气太热了。你应该现在把食物放进冰箱里。否则，很快就会变坏</p>"
 		},{
 			"id":"5",
-			"content":"I signed the letter at the ______ of the page.",
-			"answers":["bottom", "end", "base", "root"]
+			"content": "I signed the letter at the ______ of the page.",
+			"answers": ["bottom", "end", "base", "root"],
+			"correct": "bottom",
+			"analysis": "at the bottom of  在什么底部"
 		},{
 			"id":"6",
-			"content":"—“What is the weather like there?”  —“Hawaii has rather mild weather _______ other places.”",
-			"answers":["comparing with", "comparing to", "compared with", "compared to"]
+			"content": "—“What is the weather like there?”  —“Hawaii has rather mild weather _______ other places.”",
+			"answers": ["comparing with", "comparing to", "compared with", "compared to"],
+			"correct": "compared with",
+			"analysis": "<p>compare to '把...比作'</p><p></p>"
 		}
 	],
 	"Math":[],
