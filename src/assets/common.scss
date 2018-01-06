@@ -10,13 +10,15 @@ ul,li{
     list-style: none
 
 }
+
 ul{
     display: flex;
     margin: 0 30px;
 }
 li{
-   flex: 1
+    flex: 1
 }
+
 
 /// catalog
 .catalog{
@@ -25,5 +27,66 @@ li{
         padding: 20px;
         background: #39D631;
         color: #fff
+    }
+}
+
+///list
+.list{
+    position: relative;
+    padding: 0 100px 20px;
+
+    h1{
+        margin-bottom: 30px;
+    }
+    h3{
+        text-align: left;
+        position: relative;
+        padding-left: 30px;
+        .num{
+            position: absolute;
+            left: 0;
+            line-height: 150%;
+        }
+
+        & + ol{
+            display: flex;
+            flex-wrap: wrap;
+            margin-bottom: 15px;
+            padding-right:50px;
+
+            li{
+                // flex: 1;
+                margin: 15px 20px;
+
+                list-style-type: upper-latin;
+                text-align: left;
+                white-space: nowrap;
+            }
+        }
+    }
+
+    .switch{
+        position: absolute;
+        top: 240px;
+        left: 50%;
+        margin-left: -120px;
+        button{
+            margin-top: 40px;
+            padding: 10px 30px;
+            background: #39D631;
+            border: none;
+            color: #fff;
+            font-weight: bold;
+            letter-spacing: 5px;
+
+            & + button{
+                margin-left: 20px
+            }
+
+            &:disabled{
+                background: rgba(#39D631,.7)
+            }
+
+        }
     }
 }

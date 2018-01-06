@@ -21,13 +21,12 @@ export default {
     },
     methods:{
         getData(){
-            axios.get('http://localhost:8080/api/English').then(res => {
-                console.log(res)
+            axios.get('/api/English').then(res => {
+                if(!res) return
+                this.EnglistList = res.data.data
+                console.log(this.EnglistList)
             })
-
         }
-
-
     }
 }
 </script>
