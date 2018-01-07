@@ -4,6 +4,8 @@ const express = require('express')
 const app = express()
 const appData = require('../data.json')
 const English = appData.English
+const math = appData.math
+const Computer = appData.Computer
 const apiRoutes = express.Router()
 app.use('/api',apiRoutes)
 
@@ -35,6 +37,18 @@ const devWebpackConfig = merge(baseWebpackConfig, {
         res.json({
           errno: 0,
           data: English
+        })
+      })
+      app.get('/api/math',(req,res) => {
+        res.json({
+          errno: 0,
+          data: math
+        })
+      })
+      app.get('/api/Computer',(req,res) => {
+        res.json({
+          errno: 0,
+          data: Computer
         })
       })
     },
