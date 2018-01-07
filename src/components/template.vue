@@ -8,24 +8,29 @@
             <span class="page">{{curIndex+1}} / {{list.length}}</span>
         </div>
 
+        <div class="switch">
+            <button type="button" :disabled="isFirst" @click="next('pre')">上一题</button>
+            <button type="button" :disabled="isLast" @click="next('next')">下一题</button>
+        </div>
+
         <div class="problem" v-for="(item, listIndex) of list" :key="listIndex" v-if="listIndex===curIndex">
-            <h3><span class="num">{{listIndex+1}}.</span>{{item.content}}</h3>
+            <h3>
+                <span class="num">{{listIndex+1}}.</span>
+                <span v-html="item.content"></span>
+            </h3>
             <ol>
                 <li
                     :class="[checkState,{checked: index === checkIndex }]" 
                     v-for="(answer, index) of item.answers" :key="answer">
+                    <span v-html="answer"></span>
                     <input type="button" 
                         :disabled="isChekedCur"
-                        :value="answer" 
                         @click="checkQuestion(answer,item,index)">
                 </li>
             </ol>
         </div>
 
-        <div class="switch">
-            <button type="button" :disabled="isFirst" @click="next('pre')">上一题</button>
-            <button type="button" :disabled="isLast" @click="next('next')">下一题</button>
-        </div>
+        
 
         <div class="tip right" v-if="showRightTip">
             恭喜您，答对了！☺ <a @click="checkAnalysis">查看解析</a>

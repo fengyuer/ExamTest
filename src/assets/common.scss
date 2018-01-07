@@ -12,9 +12,6 @@
         margin: 0;
         padding: 0
     }
-    @at-root ul,li{
-        list-style: none;
-    }
 
     @at-root ul{
         display: flex;
@@ -28,6 +25,9 @@
 
 /// catalog
 .catalog{
+    ul,li{
+        list-style: none;
+    }
     li{
         margin: 10px;
         padding: 20px;
@@ -38,7 +38,7 @@
     }
 }
 
-$switchTop: 400px;
+// $switchTop: 400px;
 $liLRSpace: 10px;
 $boxSpace: 30px;
 
@@ -141,10 +141,12 @@ $boxSpace: 30px;
     }
 
     .switch{
-        position: absolute;
-        top: $switchTop;
-        left: 50%;
-        margin-left: -120px;
+        // position: absolute;
+        // top: $switchTop;
+        // left: 50%;
+        // margin-left: -120px;
+        margin-bottom: 30px;
+
         button{
             margin-top: 40px;
             padding: 10px 30px;
@@ -166,6 +168,8 @@ $boxSpace: 30px;
     }
 
     .tip{
+        // position: absolute;
+        // top:  $switchTop + 100px;
         padding-left: $liLRSpace + $boxSpace;
         font-weight: bold;
         font-size: 20px;
@@ -185,8 +189,8 @@ $boxSpace: 30px;
     }
 
     .analysis{
-        position: absolute;
-        top: $switchTop + 100px;
+        // position: absolute;
+        // top: $switchTop + 100px + 30px;
         padding-bottom: 40px;
     }
 }
