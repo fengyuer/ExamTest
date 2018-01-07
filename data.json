@@ -35,9 +35,727 @@
 			"content": "—“What is the weather like there?”  —“Hawaii has rather mild weather _______ other places.”",
 			"answers": ["comparing with", "comparing to", "compared with", "compared to"],
 			"correct": "compared with",
-			"analysis": "<p>compare to '把...比作'</p><p></p>"
+			"analysis": "<p>compare to <br>'把...比作' '比喻为' ‘比拟’ 是指出两者之间的关系或相似</p><p>compare with <br> '把...和...相比' '比较' 是指研究评判人与人之间、事物与事物之间相同或相异的程度</p>"
+		},{
+			"id":"7",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"8",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"9",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"10",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"11",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"12",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"13",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"14",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"15",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"16",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"17",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"18",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"19",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"20",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"21",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"22",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"23",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"24",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"25",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
 		}
 	],
-	"Math":[],
-	"Computer":[]
+	"Math":[
+		{
+			"id":"1",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"2",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"3",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"4",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"5",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"6",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"7",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"8",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"9",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"10",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"11",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"12",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"13",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"14",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"15",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"16",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"17",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"18",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"19",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"20",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"21",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"22",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"23",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"24",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"25",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"26",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"27",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"28",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"29",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"30",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"31",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"32",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"33",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"34",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"35",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"36",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"37",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"38",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"39",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"40",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"41",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"42",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"43",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"44",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"45",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"46",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"47",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"48",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"49",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"50",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		}
+	],
+	"Computer":[
+		{
+			"id":"1",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"2",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"3",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"4",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"5",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"6",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"7",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"8",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"9",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"10",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"11",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"12",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"13",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"14",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"15",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"16",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"17",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"18",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"19",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"20",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"21",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"22",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"23",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"24",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"25",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"26",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"27",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"28",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"29",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"30",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"31",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"32",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"33",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"34",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"35",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"36",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"37",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"38",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"39",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"40",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"41",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"42",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"43",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"44",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"45",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"46",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"47",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"48",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"49",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		},{
+			"id":"50",
+			"content": "",
+			"answers": ["", "", "", ""],
+			"correct": "",
+			"analysis": "<p></p><p></p>"
+		}
+	]
 }
