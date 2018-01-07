@@ -318,7 +318,7 @@
 		},{
 			"id":"3",
 			"content": "下列函数是偶函数的是 ",
-			"answers": ["f(x)=xtanx", "f(x)=consxsinx", "f(x)=x&sup2; + sinx", "f(x)=ln(x+&radic;(x&sup2+1))"],
+			"answers": ["f(x)=xtanx", "f(x)=consxsinx", "f(x)=x&sup2; + sinx", "f(x)=ln(x+&radic;<span style='text-decoration:overline;'>x&sup2+1</span>)"],
 			"correct": "f(x)=xtanx",
 			"analysis": "<p></p><p></p>"
 		},{
@@ -341,46 +341,46 @@
 			"analysis": "<h3><a href='https://baike.baidu.com/item/%E9%80%86%E7%9F%A9%E9%98%B5/10481136?fr=aladdin'>可逆矩阵性质</a></h3><ol><li>可逆矩阵一定是方阵。</li><li>（唯一性）如果矩阵A是可逆的，其逆矩阵是唯一的。</li><li>A的逆矩阵的逆矩阵还是A。记作（A-1）-1=A。</li><li>可逆矩阵A的转置矩阵AT也可逆，并且（AT）-1=（A-1）T (转置的逆等于逆的转置）</li><li>若矩阵A可逆，则矩阵A满足消去律。即AB=O（或BA=O），则B=O，AB=AC（或BA=CA），则B=C。</li><li>两个可逆矩阵的乘积依然可逆。</li><li>矩阵可逆当且仅当它是满秩矩阵。</li></ol><p><a href='https://jingyan.baidu.com/article/1709ad8095e1924634c4f03a.html'>3阶以内的矩阵求逆矩阵的3种手算方法</a></p><p></p>"
 		},{
 			"id":"7",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "设z=f(x,y) 在点M<sub>0</sub>(x<sub>0</sub>,y<sub>0</sub>;) 的邻域内有定义：若对该领域内任何异于(x<sub>0</sub>,y<sub>0</sub>) 的点(x,y)有f(x,y) &lt; f(x<sub>0</sub>,y<sub>0</sub>) ，则该函数在点(x<sub>0</sub>,y<sub>0</sub>)处 ",
+			"answers": ["有极大值f(x<sub>0</sub>,y<sub>0</sub>)", "有极小值f(x<sub>0</sub>,y<sub>0</sub>)", "有极大值f(x,y)", "不一定有极值"],
+			"correct": "有极大值f(x<sub>0</sub>,y<sub>0</sub>)",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"8",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
-			"analysis": "<p></p><p></p>"
+			"content": "<img src='/static/imgs/math/math8.png'>",
+			"answers": ["&frac16;", "&frac12;", "1", "- &frac16;"],
+			"correct": "&frac16;",
+			"analysis": "<h3>高等数学等价无穷小的几个常用公式</h3><p>当x→0时</p><ul><li>sinx~x</li><li>tanx~x </li><li>arcsinx~x </li><li>arctanx~x </li><li>1-cosx~(1/2)*（x^2）~secx-1 </li><li>（a^x）-1~x*lna (（a^x-1)/x~lna) </li><li>（e^x）-1~x </li><li>ln(1+x)~x </li><li>(1+Bx)^a-1~aBx </li><li>[(1+x)^1/n]-1~（1/n）*x </li><li>loga(1+x)~x/lna </li><li>（1+x)^a-1~ax(a≠0) </li></ul><p>值得注意的是,等价无穷小一般只能在乘除中替换,</p><p>在加减中替换有时会出错（加减时可以整体代换,不能单独代换或分别代换）</p>"
 		},{
 			"id":"9",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": " 曲线y=e<sup>3x</sup>+1在x=0处的切线方程为",
+			"answers": ["y=3x+2", "y=3x+3", "y=3x-2", "y=3x-3"],
+			"correct": "y=3x+2",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"10",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "设f'(cosx) = sin&sup2;x,且 f(0) = 0,则f(x)= ",
+			"answers": ["x - x<sup>3</sup>/3 + C", "x - x<sup>3</sup>/3", "x + x<sup>3</sup>/3 + C", "x + x<sup>3</sup>/3"],
+			"correct": "x - x<sup>3</sup>/3",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"11",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "<img src='/static/imgs/math/math11.png'> =",
+			"answers": ["- &frac13;(arctan x)<sup>3</sup> + C", "(arctan x)<sup>3</sup> + C", "- (arctan x)<sup>3</sup> + C", "&frac13;(arctan x)<sup>3</sup> + C"],
+			"correct": "&frac13;(arctan x)<sup>3</sup> + C",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"12",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
-			"analysis": "<p></p><p></p>"
+			"content": "A.B 均三阶矩阵，|A| = 4,|B| = -5 ,试求 |2AB|= ",
+			"answers": ["- 40", "40", "160", "-160"],
+			"correct": "-160",
+			"analysis": "<p>行与列相乘</p><p>|2AB| = 2<sup>3</sup>|A||B|</p>"
 		},{
 			"id":"13",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
-			"analysis": "<p></p><p></p>"
+			"content": " 函数y=xe<sup>x</sup>的导数为",
+			"answers": ["y'= e<sup>x</sup> + x", "y'=(x-1)e<sup>x</sup>", "y'= ex+ x", "y'= e<sup>x</sup> + xe<sup>x</sup>"],
+			"correct": "y'= e<sup>x</sup> + xe<sup>x</sup>",
+			"analysis": "<p>(uv)' = u'v + uv'</p><p>(a<sup>x</sup>)'=a<sup>x</sup>lna</p><p>(x<sup>u</sup>)' = ux<sup>u-1</sup></p><p>&there4;(xe<sup>x</sup>)' = x'e<sup>x</sup> + x(e<sup>x</sup>)'= 1x<sup>0</sup>e<sup>x</sup> + xe<sup>x</sup>lne</p><p>详见<a href='https://wenku.baidu.com/view/839c97f8910ef12d2af9e720.html'>一般常用求导公式</a></p>"
 		},{
 			"id":"14",
 			"content": "",

@@ -5,7 +5,7 @@
     -moz-osx-font-smoothing: grayscale;
     // text-align: center;
     color: #2c3e50;
-    // margin-top: 60px;
+    line-height: 150%;
 
 
     @at-root ul,ol,li,p{
@@ -13,22 +13,16 @@
         padding: 0
     }
 
-    @at-root ul{
-        display: flex;
-        margin: 0 30px;
-
-        li{
-            flex: 1
-        }
-    }
 }
 
 /// catalog
 .catalog{
-    ul,li{
-        list-style: none;
-    }
+    display: flex;
+    margin: 0 30px;
+
     li{
+        list-style: none;
+        flex: 1;
         margin: 10px;
         padding: 20px;
         background: #39D631;
