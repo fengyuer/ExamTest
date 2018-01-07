@@ -1,16 +1,23 @@
 <template>
     <div class="list">
         <h1>{{subject}}</h1>
-        <div class="total">{{curIndex+1}} / {{list.length}}</div>
+        <div class="extra">
+            <span>答对：{{rightTotal}}个</span>
+            <span>答错：{{errTotal}}个</span>
+            <span>得分：{{150 / list.length * rightTotal}}分</span>
+            <span class="page">{{curIndex+1}} / {{list.length}}</span>
+        </div>
 
         <div class="problem" v-for="(item, listIndex) of list" :key="listIndex" v-if="listIndex===curIndex">
             <h3><span class="num">{{listIndex+1}}.</span>{{item.content}}</h3>
             <ol>
                 <li
-                    :class="[checkState,{checked: index === checkIndex}]" 
-                    v-for="(answer, index) of item.answers" :key="answer" 
-                    @click="check_question(answer,item,index)">
-                    {{answer}}
+                    :class="[checkState,{checked: index === checkIndex }]" 
+                    v-for="(answer, index) of item.answers" :key="answer">
+                    <input type="button" 
+                        :disabled="isChekedCur"
+                        :value="answer" 
+                        @click="checkQuestion(answer,item,index)">
                 </li>
             </ol>
         </div>
@@ -46,16 +53,19 @@ export default {
     },
     data(){
         return {
-            curIndex: 0,
-            analysis: '',
-            showAnalysis: false,
-            analysisCon: '',
-            isFirst: true,
-            isLast: false,
+            curIndex: 0,            // 当前题号
+            rightTotal: 0,          // 答对总数
+            errTotal: 0,            // 打错总数
+            isFirst: true,          // 是否是第一题
+            isLast: false,          // 是否是最后一题
+            showAnalysis: false,    // 是否显示解析
+            analysisCon: '',        // 解析内容
+            checkList: [],
             checkIndex: 6,
+            isChekedCur: false,
             checkState:'',
-            showRightTip: false,
-            showErrTip: false,
+            showRightTip: false,    // 是否显示正确提示
+            showErrTip: false,      // 是否显示错误提示
         }
     },
     methods:{
@@ -74,37 +84,46 @@ export default {
             if(way === 'pre'){
                 nextIndex = this.curIndex - 1
                 options = this.list[nextIndex].answers
-                // console.log(options)
                 options.sort(this.randomSort)
                 this.curIndex --
                 
             }else{
                 nextIndex = this.curIndex + 1
                 options = this.list[nextIndex].answers
-                // console.log(options)
                 options.sort(this.randomSort)
                 this.curIndex ++
             }
 
+            this.verifySelect(this.list[nextIndex].id,options)
+
             this.curIndex === 0 ? this.isFirst = true : this.isFirst = false
             this.curIndex === lastIndex ? this.isLast = true : this.isLast = false
         },
-        check_question(option,item,index){
+        checkQuestion(option,item,index){
             this.analysisCon =  item.analysis
-            console.log(this.analysisCon)
             this.checkIndex = index
             this.checkState=""
+            this.isChekedCur = true
+
+            let obj = {
+                id: item.id,
+                isRight: false,
+                checkedVal: option
+            }
+
             if(option===item.correct){
                 this.showRightTip = true
                 this.showErrTip = false
                 this.checkState="right"
+                this.rightTotal++
+                obj.isRight = true
             }else{
                 this.showRightTip = false
                 this.showErrTip = true
                 this.checkState="wrong"
+                this.errTotal++
             }
-            // console.log(option)
-            // console.log(item)
+            this.checkList.push(obj)
         },
         // 随机排序
         randomSort(a,b){
@@ -115,6 +134,31 @@ export default {
             this.showAnalysis =  true
             console.log(this.showAnalysis)
             console.log(this.analysisCon)
+        },
+        // 验证是否选择
+        verifySelect(id,options){
+            console.log(this.checkList)
+            this.checkList.find((v) => {
+                if(v.id === id){
+                    this.isChekedCur = true
+
+                    // 选择是否正确
+                    if(v.isRight){
+                        this.checkState = "right"
+                    }else{
+                        this.checkState = "wrong"
+                    }
+
+                    // 选择的项
+                    options.find((option,index) => {
+                        if(option === v.checkedVal){
+                            this.checkIndex= index
+                        }
+                    })
+                    return true
+                }
+                this.isChekedCur = false
+            })
         }
     }
 }

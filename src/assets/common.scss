@@ -49,59 +49,90 @@ $boxSpace: 30px;
     h1{
         margin-bottom: 30px;
     }
+    .extra{
+        position: relative;
+        &>span{
+            margin-right: 60px;
+        }
+        .page{
+            position: absolute;
+            right: 0
+        }
+
+    }
     .problem{
         position: relative;
         padding-left: $boxSpace;
-    }
-    h3{
-        .num{
-            position: absolute;
-            left: 0;
-            line-height: 150%;
-        }
+    
+        h3{
+            .num{
+                position: absolute;
+                left: 0;
+                line-height: 150%;
+            }
 
-        & + ol{
-            // display: flex;
-            // flex-wrap: wrap;
-            margin-bottom: 15px;
-            padding-right:50px;
+            & + ol{
+                // display: flex;
+                // flex-wrap: wrap;
+                margin-bottom: 15px;
+                padding-right:50px;
 
-            li{
-                // flex: 1;
-                margin: 15px $liLRSpace;
-                padding: 10px 15px;
-                background: rgba(#39D631,.2);
-
-                list-style-type: upper-latin;
-                list-style-position: inside;
-                text-align: left;
-                white-space: nowrap;
-
-                &.checked{
+                li{
                     position: relative;
-                    color: #fff;
+                    // flex: 1;
+                    margin: 15px $liLRSpace;
+                    padding: 10px 15px;
+                    background: rgba(#39D631,.2);
 
-                    &:after{
+                    list-style-type: upper-latin;
+                    list-style-position: inside;
+                    text-align: left;
+                    white-space: nowrap;
+
+                    &.checked{
+                        color: #fff;
+                        
+                        input[type=button]{
+                            color: #fff;
+                        }
+
+                        &:after{
+                            position: absolute;
+                            content: '';
+                            right: 15px;
+                            border: 0
+
+                        }
+
+                        &.right{
+                            background: rgba(#39D631,.7);
+                            &:after{
+                                content: "√"
+                            }
+
+
+                        }
+                        &.wrong{
+                            background: rgba(#f00,.7);
+                            &:after{
+                                content: "x"
+                            }
+                        }
+                    }
+
+                    input[type=button]{
                         position: absolute;
-                        content: '';
-                        right: 15px;
-                        border: 0
+                        left: 0;
+                        top: 0;
+                        bottom: 0;
+                        left: 0;
+                        width: 100%;
+                        background: transparent;
+                        border: none;
+                        outline: none;
+                        padding-left: 40px;
+                        text-align: left;
 
-                    }
-
-                    &.right{
-                        background: rgba(#39D631,.7);
-                        &:after{
-                            content: "√"
-                        }
-
-
-                    }
-                    &.wrong{
-                        background: rgba(#f00,.7);
-                        &:after{
-                            content: "x"
-                        }
                     }
                 }
             }
