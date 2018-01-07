@@ -174,10 +174,12 @@ $boxSpace: 30px;
         }
         &.wrong{
             color: #f00;
-            a{
-                color: #0097FB;
-                text-decoration: underline;
-            }
+            
+        }
+        a{
+            color: #0097FB;
+            text-decoration: underline;
+            cursor: pointer
         }
     }
 

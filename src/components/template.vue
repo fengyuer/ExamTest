@@ -28,7 +28,7 @@
         </div>
 
         <div class="tip right" v-if="showRightTip">
-            <span class="right">恭喜您，答对了！☺</span>
+            恭喜您，答对了！☺ <a @click="checkAnalysis">查看解析</a>
         </div>
         <div class="tip wrong" v-if="showErrTip">
             您的答案不对哦</span> <a @click="checkAnalysis">查看解析</a>
@@ -108,7 +108,8 @@ export default {
             let obj = {
                 id: item.id,
                 isRight: false,
-                checkedVal: option
+                checkedVal: option,
+                analysisCon: item.analysis
             }
 
             if(option===item.correct){
@@ -124,6 +125,7 @@ export default {
                 this.errTotal++
             }
             this.checkList.push(obj)
+            console.log(this.checkList)
         },
         // 随机排序
         randomSort(a,b){
@@ -132,8 +134,6 @@ export default {
         },
         checkAnalysis(){
             this.showAnalysis =  true
-            console.log(this.showAnalysis)
-            console.log(this.analysisCon)
         },
         // 验证是否选择
         verifySelect(id,options){
@@ -142,10 +142,14 @@ export default {
                 if(v.id === id){
                     this.isChekedCur = true
 
+                    this.analysisCon = v.analysisCon
+
                     // 选择是否正确
                     if(v.isRight){
+                        this.showRightTip = true
                         this.checkState = "right"
                     }else{
+                        this.showErrTip = true
                         this.checkState = "wrong"
                     }
 
