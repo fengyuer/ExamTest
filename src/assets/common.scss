@@ -26,14 +26,15 @@
     }
 }
 
-
 /// catalog
 .catalog{
     li{
         margin: 10px;
         padding: 20px;
         background: #39D631;
-        color: #fff
+        color: #fff;
+        text-align: center;
+        cursor: pointer
     }
 }
 

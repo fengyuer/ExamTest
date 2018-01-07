@@ -38,117 +38,117 @@
 			"analysis": "<p>compare to <br>'把...比作' '比喻为' ‘比拟’ 是指出两者之间的关系或相似</p><p>compare with <br> '把...和...相比' '比较' 是指研究评判人与人之间、事物与事物之间相同或相异的程度</p>"
 		},{
 			"id":"7",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
-			"analysis": "<p></p><p></p>"
+			"content": "Mr. Johnson acts as if he ________ an expert.",
+			"answers": ["is", "was", "were", "has been" ],
+			"correct": "were",
+			"analysis": "<p>虚拟语气</p><p>act as 担任 担当</p><p>约翰先生表现的好像是个专家。</p>"
 		},{
 			"id":"8",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
-			"analysis": "<p></p><p></p>"
+			"content": "I _______ this book in a secondhand bookstore on Nanjing Road. ",
+			"answers": ["came into", "came for", "came out", "came across" ],
+			"correct": "came across",
+			"analysis": "<p>came across 遇到</p><p></p>"
 		},{
 			"id":"9",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
-			"analysis": "<p></p><p></p>"
+			"content": "_______ the people have become the master of their own country _________ science can really serve the people.",
+			"answers": ["It is only then；that", "It was that；when", "It is only when；that", "It was when；then" ],
+			"correct": "It is only when；that",
+			"analysis": "<p>只有当人民成为自己国家的主人时，科学才能真正为人民服务。</p><p><a href='http://www.mofangge.com/html/qDetail/03/g0/201408/nrp3g003328318.html'>该题为强调句型，强调only when引导的时间状语从句。</a></p>"
 		},{
 			"id":"10",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
-			"analysis": "<p></p><p></p>"
+			"content": "When he was set free after twenty years in prison, he was amazed __ the changed world he found. ",
+			"answers": ["at", "of", "on", "to" ],
+			"correct": "at",
+			"analysis": "<p>prison 监狱</p><ul><li>be amazed at / by “对……感到惊讶”</li><li>amaze sb. “使某人惊讶”</li><li>be amazed that that是接从句的,意思是因为什么而感到吃惊</li></ul>"
 		},{
 			"id":"11",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
-			"analysis": "<p></p><p></p>"
+			"content": "11.They ________ in Chicago, but now they live in New York. ",
+			"answers": ["used to living", "were living", "would live", "used to live" ],
+			"correct": "used to live",
+			"analysis": "<p>used to do sth 过去常常做某事</p><p>他们过去住在芝加哥,但是现在他们住在纽约.</p>"
 		},{
 			"id":"12",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
-			"analysis": "<p></p><p></p>"
+			"content": "Twenty dollars _______ more than I could afford. ",
+			"answers": ["will be", "is", "are", "were" ],
+			"correct": "is",
+			"analysis": "<p>表示“钱的数目”时，be动词用单数</p>"
 		},{
 			"id":"13",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "Everybody agreed, ____? ",
+			"answers": ["didn't they", "didn't it", "did they", "did it" ],
+			"correct": "didn't they",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"14",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "It was ____ it raised many difficult questions that the book took a long time to come out. ",
+			"answers": ["since", "because", "after", "when" ],
+			"correct": "because",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"15",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "_________ you join us in the vocabulary game? ",
+			"answers": ["Should", "Shall", "May", "Will" ],
+			"correct": "Will",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"16",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "The Vikings are believed ________ America. ",
+			"answers": ["to have discovered", "to discover", "in discovering", "to have been discovered" ],
+			"correct": "to have discovered",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"17",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "In the final year of high school, they complete applications and send them, with their student records, to the universities which they hope to _______. ",
+			"answers": ["study", "participate", "attend", "belong"],
+			"correct": "attend",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"18",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "Henry often helps look after Mrs. Green, but_______. ",
+			"answers": ["seldom is George", "seldom George does", "seldom does George", "seldom looks George after Granny Wang" ],
+			"correct": "seldom does George",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"19",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "he horse is getting old and can't run ___ it did.",
+			"answers": ["as faster as", "so fast than", "so fast as", "such fast as" ],
+			"correct": "so fast as",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"20",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "The last time we had a family reunion was _____ my brother's wedding ceremony four years ago. ",
+			"answers": ["in", "at", "during", "over" ],
+			"correct": "at",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"21",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "He promised to look _________ the matter as soon as he got there. ",
+			"answers": ["for", "in", "into", "after" ],
+			"correct": "into",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"22",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "Bill doesn't ________ what people say about him. ",
+			"answers": ["concern", "matter", "care", "disturb" ],
+			"correct": "care",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"23",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "The discussion was so long and exhausting that _______ the speakers stopped for refreshments. ",
+			"answers": ["at large", "at intervals", "at ease", "at random" ],
+			"correct": "at intervals",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"24",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "Radio, television and press _________ of conveying news as information. ",
+			"answers": ["are most the three common means", "are the most three common means", "are the three most common means", "are three the most common means" ],
+			"correct": "are the three most common means",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"25",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "—— We have to stop talking here outside. Listen, ______!  —— Hurry up, or we'll be late. ",
+			"answers": ["There goes the bell", "There does the bell go", "There the bell goes", "Goes the bell there"],
+			"correct": "There goes the bell",
 			"analysis": "<p></p><p></p>"
 		}
 	],
