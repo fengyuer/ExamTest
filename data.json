@@ -368,7 +368,7 @@
 			"content": "<img src='/static/imgs/math/math11.png'> =",
 			"answers": ["- &frac13;(arctan x)<sup>3</sup> + C", "(arctan x)<sup>3</sup> + C", "- (arctan x)<sup>3</sup> + C", "&frac13;(arctan x)<sup>3</sup> + C"],
 			"correct": "&frac13;(arctan x)<sup>3</sup> + C",
-			"analysis": "<p><a href=''>积分公式https://baike.baidu.com/item/%E7%A7%AF%E5%88%86%E5%85%AC%E5%BC%8F/8556651?fr=aladdin</a></p><p><a href='https://baike.baidu.com/item/arctan/8318716?fr=aladdin'><big>arctan</big></a> Arctangent（即arctan）指反正切函数，反正切函数是反三角函数的一种，即正切函数的反函数。</p><p></p>"
+			"analysis": "<p>此题考察不定积分 和 反正切函数</p><p><a href=''>积分公式https://baike.baidu.com/item/%E7%A7%AF%E5%88%86%E5%85%AC%E5%BC%8F/8556651?fr=aladdin</a></p><p><a href='https://baike.baidu.com/item/arctan/8318716?fr=aladdin'><big>arctan</big></a> Arctangent（即arctan）指反正切函数，反正切函数是反三角函数的一种，即正切函数的反函数。</p><p></p>"
 		},{
 			"id":"12",
 			"content": "A.B 均三阶矩阵，|A| = 4,|B| = -5 ,试求 |2AB|= ",
@@ -383,20 +383,20 @@
 			"analysis": "<p>(uv)' = u'v + uv'</p><p>(a<sup>x</sup>)'=a<sup>x</sup>lna</p><p>(x<sup>u</sup>)' = ux<sup>u-1</sup></p><p>&there4;(xe<sup>x</sup>)' = x'e<sup>x</sup> + x(e<sup>x</sup>)'= 1x<sup>0</sup>e<sup>x</sup> + xe<sup>x</sup>lne</p><p>详见<a href='https://wenku.baidu.com/view/839c97f8910ef12d2af9e720.html'>一般常用求导公式</a></p>"
 		},{
 			"id":"14",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
-			"analysis": "<p></p><p></p>"
+			"content": "<img src='/static/imgs/math/math14.png'>",
+			"answers": ["5/24 &pi;", "15/48 &pi;", "15/96 &pi;", "3/16 &pi;"],
+			"correct": "15/96 &pi;",
+			"analysis": "<p>此题考察定积分</p><p>此题定积分公式<img src='/static/imgs/math/formula-dingjifen.jpg'></p><p>∴ &int; <sup>&supπ2;</sup><sub>0</sub>sin<sup>6</sup>xdx = &frac56;·&frac34;·&frac12;·&fracπ2;</p>"
 		},{
 			"id":"15",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
-			"analysis": "<p></p><p></p>"
+			"content": "<img src='/static/imgs/math/math15.png'>",
+			"answers": ["1", "&frac23;", "&frac12;", "0"],
+			"correct": "&frac12;",
+			"analysis": "<p>本题考察<a href='https://baike.baidu.com/item/%E6%9E%81%E9%99%90/3564509?fr=aladdin#3_5'>极限</a></p><p>参见<a href='https://wenku.baidu.com/view/50cbfe54ac02de80d4d8d15abe23482fb4da02d4.html'>课题三 例七</a></p>"
 		},{
 			"id":"16",
-			"content": "",
-			"answers": ["", "", "", ""],
+			"content": "设<img src='/static/imgs/math/math16.png'>在x = 0连续，则a=",
+			"answers": ["0", "1", "2", "3"],
 			"correct": "",
 			"analysis": "<p></p><p></p>"
 		},{
