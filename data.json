@@ -362,13 +362,13 @@
 			"content": "设f'(cosx) = sin&sup2;x,且 f(0) = 0,则f(x)= ",
 			"answers": ["x - x<sup>3</sup>/3 + C", "x - x<sup>3</sup>/3", "x + x<sup>3</sup>/3 + C", "x + x<sup>3</sup>/3"],
 			"correct": "x - x<sup>3</sup>/3",
-			"analysis": "<p></p><p></p>"
+			"analysis": "<p>求导的逆运算是<a href='https://baike.baidu.com/item/%E7%A7%AF%E5%88%86/5749068?fr=aladdin'>积分</a></p><p>y=ax^n的积分是y=(a/n+1)*x^(n+1) + C(不定积分加常量C)</p><p>即: y=a·x<sup>n</p>的积分是y=(a/n+1)·x<sup>n+1</p> + C(不定积分加常量C)</p><p>∵ sin&sup2;x + cos&sup2;x = 1</p><p>&there4; f'(cosx)= 1- cos&sup2;x</p><p>&there4; f'(x) = 1- x&sup2;</p><p>(-1 &le; x &le; 1)</p><p>然后代入积分公式运算</p><p><a href='https://jingyan.baidu.com/article/fdffd1f850d850f3e88ca15a.html'>积分怎么求</a> <a href='https://baike.baidu.com/item/%E5%AE%9A%E7%A7%AF%E5%88%86/7128801?fr=aladdin'>定积分</a></p>"
 		},{
 			"id":"11",
 			"content": "<img src='/static/imgs/math/math11.png'> =",
 			"answers": ["- &frac13;(arctan x)<sup>3</sup> + C", "(arctan x)<sup>3</sup> + C", "- (arctan x)<sup>3</sup> + C", "&frac13;(arctan x)<sup>3</sup> + C"],
 			"correct": "&frac13;(arctan x)<sup>3</sup> + C",
-			"analysis": "<p></p><p></p>"
+			"analysis": "<p><a href=''>积分公式https://baike.baidu.com/item/%E7%A7%AF%E5%88%86%E5%85%AC%E5%BC%8F/8556651?fr=aladdin</a></p><p><a href='https://baike.baidu.com/item/arctan/8318716?fr=aladdin'><big>arctan</big></a> Arctangent（即arctan）指反正切函数，反正切函数是反三角函数的一种，即正切函数的反函数。</p><p></p>"
 		},{
 			"id":"12",
 			"content": "A.B 均三阶矩阵，|A| = 4,|B| = -5 ,试求 |2AB|= ",
