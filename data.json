@@ -332,13 +332,13 @@
 			"content": "设<img src='/static/imgs/math/math5.png'>；则该函数的定义域为 ",
 			"answers": ["x&gt;1且x&ne;2", "x&gt;1", "x&gt;2", "x&ge;2"],
 			"correct": "x&gt;1且x&ne;2",
-			"analysis": "<p></p><p></p>"
+			"analysis": "<p>∵ ln(x - 1) &ne; 0 && x - 1 &gt; 0</p><p>∴ n - 1 &ne; 1 && x &gt; 1</p><p>∴ n &ne; 2 && x &gt; 1</p>"
 		},{
 			"id":"6",
 			"content": "矩阵A= <img src='/static/imgs/math/math6.png'> 的逆矩阵为",
 			"answers": ["<img src='/static/imgs/math/math6-1.png'>", "<img src='/static/imgs/math/math6-2.png'>", "<img src='/static/imgs/math/math6-3.png'>", "<img src='/static/imgs/math/math6-4.png'>"],
 			"correct": "<img src='/static/imgs/math/math6-3.png'>",
-			"analysis": "<h3><a href='https://baike.baidu.com/item/%E9%80%86%E7%9F%A9%E9%98%B5/10481136?fr=aladdin'>可逆矩阵性质</a></h3><ol><li>可逆矩阵一定是方阵。</li><li>（唯一性）如果矩阵A是可逆的，其逆矩阵是唯一的。</li><li>A的逆矩阵的逆矩阵还是A。记作（A-1）-1=A。</li><li>可逆矩阵A的转置矩阵AT也可逆，并且（AT）-1=（A-1）T (转置的逆等于逆的转置）</li><li>若矩阵A可逆，则矩阵A满足消去律。即AB=O（或BA=O），则B=O，AB=AC（或BA=CA），则B=C。</li><li>两个可逆矩阵的乘积依然可逆。</li><li>矩阵可逆当且仅当它是满秩矩阵。</li></ol><p><a href='https://jingyan.baidu.com/article/1709ad8095e1924634c4f03a.html'>3阶以内的矩阵求逆矩阵的3种手算方法</a></p><p></p>"
+			"analysis": "<h3><a href='https://baike.baidu.com/item/%E9%80%86%E7%9F%A9%E9%98%B5/10481136?fr=aladdin'>可逆矩阵性质</a></h3><ol><li>可逆矩阵一定是方阵。</li><li>（唯一性）如果矩阵A是可逆的，其逆矩阵是唯一的。</li><li>A的逆矩阵的逆矩阵还是A。记作（A<sup>-1</sup>）<sup>-1</sup>=A。</li><li>可逆矩阵A的转置矩阵A<sup>T</sup>也可逆，并且（A<sup>T</sup>）<sup>-1</sup>=（A<sup>-1</sup>）<sup>T</sup> (转置的逆等于逆的转置）</li><li>若矩阵A可逆，则矩阵A满足消去律。即AB=O（或BA=O），则B=O，AB=AC（或BA=CA），则B=C。</li><li>两个可逆矩阵的乘积依然可逆。</li><li>矩阵可逆当且仅当它是满秩矩阵。</li></ol><p><a href='https://jingyan.baidu.com/article/1709ad8095e1924634c4f03a.html'>3阶以内的矩阵求逆矩阵的3种手算方法</a></p><p></p>"
 		},{
 			"id":"7",
 			"content": "设z=f(x,y) 在点M<sub>0</sub>(x<sub>0</sub>,y<sub>0</sub>;) 的邻域内有定义：若对该领域内任何异于(x<sub>0</sub>,y<sub>0</sub>) 的点(x,y)有f(x,y) &lt; f(x<sub>0</sub>,y<sub>0</sub>) ，则该函数在点(x<sub>0</sub>,y<sub>0</sub>)处 ",
@@ -350,7 +350,7 @@
 			"content": "<img src='/static/imgs/math/math8.png'>",
 			"answers": ["&frac16;", "&frac12;", "1", "- &frac16;"],
 			"correct": "&frac16;",
-			"analysis": "<h3>高等数学等价无穷小的几个常用公式</h3><p>当x→0时</p><ul><li>sinx~x</li><li>tanx~x </li><li>arcsinx~x </li><li>arctanx~x </li><li>1-cosx~(1/2)*（x^2）~secx-1 </li><li>（a^x）-1~x*lna (（a^x-1)/x~lna) </li><li>（e^x）-1~x </li><li>ln(1+x)~x </li><li>(1+Bx)^a-1~aBx </li><li>[(1+x)^1/n]-1~（1/n）*x </li><li>loga(1+x)~x/lna </li><li>（1+x)^a-1~ax(a≠0) </li></ul><p>值得注意的是,等价无穷小一般只能在乘除中替换,</p><p>在加减中替换有时会出错（加减时可以整体代换,不能单独代换或分别代换）</p>"
+			"analysis": "<h3>高等数学等价无穷小的几个常用公式</h3><p>当x→0时</p><ul><li>sinx~x</li><li>tanx~x </li><li>arcsinx~x </li><li>arctanx~x </li><li>1-cosx~(1/2)*（x^2）~secx-1 </li><li>（a^x）-1~x*lna (（a^x-1)/x~lna) </li><li>（e^x）-1~x </li><li>ln(1+x)~x </li><li>(1+Bx)^a-1~aBx </li><li>[(1+x)^1/n]-1~（1/n）*x </li><li>loga(1+x)~x/lna </li><li>（1+x)^a-1~ax(a≠0) </li></ul><p>值得注意的是,等价无穷小一般只能在乘除中替换,</p><p>在加减中替换有时会出错（加减时可以整体代换,不能单独代换或分别代换）</p><p><a href='https://baike.baidu.com/item/%E6%B4%9B%E5%BF%85%E8%BE%BE%E6%B3%95%E5%88%99/7646700?fr=aladdin'>洛必达法则</a></p>"
 		},{
 			"id":"9",
 			"content": " 曲线y=e<sup>3x</sup>+1在x=0处的切线方程为",
@@ -386,7 +386,7 @@
 			"content": "<img src='/static/imgs/math/math14.png'>",
 			"answers": ["5/24 &pi;", "15/48 &pi;", "15/96 &pi;", "3/16 &pi;"],
 			"correct": "15/96 &pi;",
-			"analysis": "<p>此题考察定积分</p><p>此题定积分公式<img src='/static/imgs/math/formula-dingjifen.jpg'></p><p>∴ &int; <sup>&supπ2;</sup><sub>0</sub>sin<sup>6</sup>xdx = &frac56;·&frac34;·&frac12;·&fracπ2;</p>"
+			"analysis": "<p>此题考察定积分</p><p>此题定积分公式<img src='/static/imgs/math/formula-dingjifen.jpg'></p><p>∴ &int; <sub>0</sub><sup  style='margin-left:-10px'>π/<small>2</small></sup> sin<sup>6</sup>xdx = &frac56; · &frac34; · &frac12; · &pi;/<small>2</small>;</p>"
 		},{
 			"id":"15",
 			"content": "<img src='/static/imgs/math/math15.png'>",
@@ -397,62 +397,62 @@
 			"id":"16",
 			"content": "设<img src='/static/imgs/math/math16.png'>在x = 0连续，则a=",
 			"answers": ["0", "1", "2", "3"],
-			"correct": "",
-			"analysis": "<p></p><p></p>"
+			"correct": "1",
+			"analysis": "<p>即求ln(1+2x) / x 趋于0的极限值</p><p></p>"
 		},{
 			"id":"17",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
-			"analysis": "<p></p><p></p>"
+			"content": "<img src='/static/imgs/math/math17.png'>",
+			"answers": ["1", "e", "e<sup>-1</sup>", "e<sup>&frac12;</sup>"],
+			"correct": "e<sup>-1</sup>",
+			"analysis": "<p>本题考察 lim x &rarr;&infin;(1 + 1/x)<sup>x</sup> = e 或 lim n &rarr;0 (1+ n)<sup>1/n</sup> = e</p><p></p>"
 		},{
 			"id":"18",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": " 幂级数<img src='/static/imgs/math/math18.png'>在x = 2时条件收敛，则在x = -1处 ",
+			"answers": ["发散", "绝对收敛", "条件收敛", "不能确定敛散性"],
+			"correct": "绝对收敛",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"19",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
-			"analysis": "<p></p><p></p>"
+			"content": "下列各组两个函数相等的是 ",
+			"answers": ["f(x) = sinx, g(x) = &radic;<span style='text-decoration:overline;'>1-cos&sup2;x</span>", "f(x) = lg x&sup2;, g(x) = 2lg x", "f(x) = tan&sup2;x, g(x) = sec&sup2;x - 1", "f(x) = &radic;<span style='text-decoration:overline'>x / (x-1)</span>, g(x) = &radic;<span style='text-decoration:overline'>x</span> / &radic;<span style='text-decoration:overline'>x-1</span>"],
+			"correct": "f(x) = tan&sup2;x, g(x) = sec&sup2;x - 1",
+			"analysis": "<p>sec&sup2;x = 1/cos&sup2;x</p><p></p>"
 		},{
 			"id":"20",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "已知f(x)可导，y = f(sinx) 的一阶导数为 ",
+			"answers": ["f'(sinx)cosx", "- f'(sinx)cosx", "f'(cosx)", "- f'(cosx)"],
+			"correct": "f'(sinx)cosx",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"21",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "已知<img src='/static/imgs/math/math21.png'>,则a,b的值为",
+			"answers": ["a = 1, b = -1", "a = -1, b= -2", "a = 0, b = -2", "a= -2, b = 0"],
+			"correct": "a = 0, b = -2",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"22",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
-			"analysis": "<p></p><p></p>"
+			"content": "<img src='/static/imgs/math/math22.png'>",
+			"answers": ["-2", "0", "2", "&pi;&sup2;"],
+			"correct": "0",
+			"analysis": "<p>∵ &int; <sup>b</sup><sub style='margin-left: -7px'>a</sub> f(x)dx = F(a) - F(b)</p><p>∵ &int; <sup>b</sup><sub style='margin-left: -7px'>a</sub> [f(x) &plusmn; g(x)]dx = &int; <sup>b</sup><sub style='margin-left: -7px'>a</sub> f(x) &plusmn; &int; <sup>b</sup><sub style='margin-left: -7px'>a</sub> g(x)dx</p><p>∵ a·x<sup>n</sup>的积分是a x <sup>n + 1 / (n + 1)</sup></p><p>∵ sinx 的积分是 - cosx  (cosx的积分是sinx)</p><p>∴ 原式 = &int; <sup>&pi;</sup><sub style='margin-left: -7px'>-&pi;</sub> x dx + &int; <sup>&pi;</sup><sub style='margin-left: -7px'>- &pi;</sub> sinx dx = &frac12; &pi;&sup2; - &frac12; (- &pi;)&sup2; - (cos&pi; - cos(-&pi;)) = 0 - (1-1) = 0</p>"
 		},{
 			"id":"23",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
-			"analysis": "<p></p><p></p>"
+			"content": "方程 x<sup>5</sup> + 3x <sup>4</sup> - x&sup2; = 2在(0,1)内至少有______个根. ",
+			"answers": ["0", "1", "2", "3"],
+			"correct": "1",
+			"analysis": "<p>求导数=0时，求极值点及拐点，将x定义域分若干区间讨论f（x）单调性，或在每个区间[a,b]根据（a，b）判断f（a）*f（b）)是否小于0，小于0,有1实根，大于0，此区间无实根。</p><p></p>"
 		},{
 			"id":"24",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
-			"analysis": "<p></p><p></p>"
+			"content": "设y = &radic;<span style='text-decoration:overline'>2x&sup2; + x -1</span> ；则该函数的定义域为 ",
+			"answers": ["(-&infin;, 1] ∪ [- &frac12;, + &infin;)", "(-&infin;, 1] ∪ [&frac12;, + &infin;)", "(-&infin;, -1] ∪ [&frac12;, + &infin;)", "(-&infin;, -1] ∪ [- &frac12;, + &infin;)"],
+			"correct": "(-&infin;, -1] ∪ [&frac12;, + &infin;)",
+			"analysis": "<p>∵ 2x&sup2; + x -1 = (2x - 1)(x + 1) &ge; 0</p><p>∴ (2x - 1 &ge;0 && x + 1 &ge; 0) || (2x - 1 &le; 0 && x + 1 &le; 0)</p><p>∴ (x &ge; &frac12; && x &ge; -1 ) || (x &le; &frac12; && x &le; -1)</p><p>∴ x &ge; &frac12; || x &le; -1</p>"
 		},{
 			"id":"25",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
-			"analysis": "<p></p><p></p>"
+			"content": "z = e<sup>2x</sup> (x + y&sup2; - 2y) 的极值点为",
+			"answers": ["(1, 1)", "(- &frac12;, 1)", "(&frac12; 1)", "没有极值点"],
+			"correct": "(&frac12; 1)",
+			"analysis": "<p></p><p><a href='https://baike.baidu.com/item/%E6%9E%81%E5%80%BC/5330918?fr=aladdin'>极值</a></p>"
 		}
 	],
 	"Computer":[
