@@ -26,6 +26,11 @@ export default new Router({
       path: '/computer',
       name: 'computer',
       component: resolve => require(['@/views/computer'], resolve)
+    },
+    {
+      path: '/daozhuangju',
+      name: 'daozhuangju',
+      component: resolve => require(['@/views/expand/English/daozhuangju'], resolve)
     }
   ]
 })

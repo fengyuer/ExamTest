@@ -47,7 +47,7 @@
 			"content": "I _______ this book in a secondhand bookstore on Nanjing Road. ",
 			"answers": ["came into", "came for", "came out", "came across" ],
 			"correct": "came across",
-			"analysis": "<p>came across 遇到</p><p></p>"
+			"analysis": "<p>came across 遇到</p><p>come into 进入；得来；起来；继承（财产）</p><p>come out v.以威胁的方式要求；来取...</p><p>come out v.出现，出版，罢工，表露，（污点）被去掉</p>"
 		},{
 			"id":"9",
 			"content": "_______ the people have become the master of their own country _________ science can really serve the people.",
@@ -77,37 +77,37 @@
 			"content": "Everybody agreed, ____? ",
 			"answers": ["didn't they", "didn't it", "did they", "did it" ],
 			"correct": "didn't they",
-			"analysis": "<p></p><p></p>"
+			"analysis": "<p>句子意思： 大家都同意了，不是吗？</p>"
 		},{
 			"id":"14",
 			"content": "It was ____ it raised many difficult questions that the book took a long time to come out. ",
 			"answers": ["since", "because", "after", "when" ],
 			"correct": "because",
-			"analysis": "<p></p><p></p>"
+			"analysis": "<p>句子意思：因为它提出了许多困难的问题，这本书花了很长时间才出版出来。</p>"
 		},{
 			"id":"15",
 			"content": "_________ you join us in the vocabulary game? ",
 			"answers": ["Should", "Shall", "May", "Will" ],
 			"correct": "Will",
-			"analysis": "<p></p><p></p>"
+			"analysis": "<p>句子意思： 你愿意加入我们的词汇游戏吗？</p>"
 		},{
 			"id":"16",
 			"content": "The Vikings are believed ________ America. ",
 			"answers": ["to have discovered", "to discover", "in discovering", "to have been discovered" ],
 			"correct": "to have discovered",
-			"analysis": "<p></p><p></p>"
+			"analysis": "<p>本题考查<a href='https://baike.baidu.com/item/%E8%A2%AB%E5%8A%A8%E8%AF%AD%E6%80%81/87467?fr=aladdin'>被动语态</a></p><p>被动语态由“助动词be+及物动词的过去分词”构成。被动语态的时态变化只改变be的形式，过去分词部分不变。疑问式和否定式的变化也如此。</p><p>句子意思： 海盗们被认为已经发现了美国。</p><p></p>"
 		},{
 			"id":"17",
 			"content": "In the final year of high school, they complete applications and send them, with their student records, to the universities which they hope to _______. ",
 			"answers": ["study", "participate", "attend", "belong"],
 			"correct": "attend",
-			"analysis": "<p></p><p></p>"
+			"analysis": "<p>attend：<br>vi.出席；致力于；侍候，照顾；关注 <br>vt.出席，参加；[常用被动语态](作为结果、情况)伴随；照顾；陪伴</p><p><br>study：<br>vi. 考虑；沉思；默想；努力 <br>vt.想出;详细地检查；背诵（台词等）；为...费心思 <br>n.学习，研究；课题；书房；结论 </p><p><br>participate：<br>vi.参加某事，分享某事 <br>vt. 得到或接受某部分东西<br>   participate 指在感情、观念或行为方面与他人共同参加某一活动。常与介词in连用 </p><p><br>belong： vi.属于;是...的成员；应被放在，适应<h4>belong to 属于</h4><ol><li>belong to sb 可用来指某物属于某人<p>例：This book belongs to me.这本书是我的</p></li><li>belong to sth <h5>A) 指与某物或某处有一定的关联，或者什么东西可以做什么用</h5><p>例: I belong to Shanghai. 我是上海人</p><h5>B) 指XX是某团体、组织等中的一员</h5><p>例：Do you belong to any organizations or clubs? 你属于哪一个组织或俱乐部吗？（也可以译为“你参加了哪一个组织或者俱乐部了吗？”）</p></li><li>belong + XX/ + with XX 指什么东西应该在什么地方<p>例： The painting belongs on the wall. 这幅画应该挂在墙上。</p></li><li>belong + XX 指适应某种环境<p>例：I have no sense of belonging the the campus. 我不适应校园的环境。</p></li></ol></p><p><br>句子意思： 在高中的最后一年，他们完成了申请，并将他们的学生记录寄给了他们希望上的大学。</p>"
 		},{
 			"id":"18",
 			"content": "Henry often helps look after Mrs. Green, but_______. ",
 			"answers": ["seldom is George", "seldom George does", "seldom does George", "seldom looks George after Granny Wang" ],
 			"correct": "seldom does George",
-			"analysis": "<p></p><p></p>"
+			"analysis": "<p>本题考查倒装句<a href='https://baike.baidu.com/item/%E5%80%92%E8%A3%85%E5%8F%A5/1525821?fr=aladdin'>倒装句</a></p><p>具有否定意义的副词如：little,seldom,never,hardly,scarcely,rarely等位于句首时，句子的主谓部分倒装</p><p>句子意思：亨利经常帮助照顾格林太太，但乔治很少。</p><h4><a href='/#/daozhuangju'>英语倒装句用法经典总结</a></h4>"
 		},{
 			"id":"19",
 			"content": "he horse is getting old and can't run ___ it did.",
