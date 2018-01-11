@@ -143,7 +143,7 @@
 			"content": "Radio, television and press _________ of conveying news as information. ",
 			"answers": ["are most the three common means", "are the most three common means", "are the three most common means", "are three the most common means" ],
 			"correct": "are the three most common means",
-			"analysis": "<p>本题考察的是<a href='https://baike.baidu.com/item/%E9%99%90%E5%AE%9A%E8%AF%8D/9227027?fr=aladdin'>限定词</a></p><p>three 是前位<a href='https://baike.baidu.com/item/%E9%99%90%E5%AE%9A%E8%AF%8D/9227027?fr=aladdin'>限定词</a>，而most是后位限定词</p><p>句意: 广播、电视和新闻是传递新闻的三种最常用的手段。</p>"
+			"analysis": "<p>本题考察的是<a href='https://baike.baidu.com/item/%E9%99%90%E5%AE%9A%E8%AF%8D/9227027?fr=aladdin'>限定词</a></p><p>three 是前位限定词，而most是后位限定词</p><p>句意: 广播、电视和新闻是传递新闻的三种最常用的手段。</p>"
 		},{
 			"id":"25",
 			"content": "—— We have to stop talking here outside. Listen, ______!  —— Hurry up, or we'll be late. ",
@@ -152,153 +152,153 @@
 			"analysis": "<p>本地考查<a href='/#/daozhuangju'>倒装句</a></p><p>表示地点的<b>here</b>和 <b>there</b>位于句首时，其后用<b>完全倒装</b>形式。这类倒装句的谓语通常是动词be和come, go等表示移动或动态的不及物动词</p><p>句意：我们不能再在外面说话了。听，铃响了！-快点，否则我们要迟到了.</p>"
 		},{
 			"id":"26",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
-			"analysis": "<p></p><p></p>"
+			"content": "Information has been put forward ______ more middle school graduates will be admitted into universities.",
+			"answers": ["while", "that", "when", "as"],
+			"correct": "that",
+			"analysis": "<p>同位语从句</p><p>put forward 提出；将...提前；向前移；将钟拨快；</p><p></p><p></p><p></p>"
 		},{
 			"id":"27",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
-			"analysis": "<p></p><p></p>"
+			"content": "The final document was, of course, supposed to mend the damage ______ upon the world by the war. ",
+			"answers": ["imposed", "impressed", "composed", "compressed"],
+			"correct": "imposed",
+			"analysis": "<p>be supposed to</p><p></p>"
 		},{
 			"id":"28",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "His room was in an indescribable _______.",
+			"answers": ["merit", "mercy", "mass", "mess"],
+			"correct": "mess",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"29",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "Some old people don't like pop songs because they can't ____ so much noise.",
+			"answers": ["resist", "sustain", "tolerate", "undertake"],
+			"correct": "tolerate",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"30",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "Students sometimes support themselves by _________ of part-time jobs.",
+			"answers": ["efforts", "means", "methods", "ways"],
+			"correct": "means",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"31",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "Hardly had she walked out of the woods ___ she heard the strange scream coming from behind a tree.",
+			"answers": ["than", "until", "since", "when"],
+			"correct": "when",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"32",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "_______ to sunlight for too much time will do harm to one’s skin.",
+			"answers": ["Exposed", "Having exposed", "Being exposed", "After being exposed"],
+			"correct": "Being exposed",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"33",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "The film Titanic tells about a very _______ love story which touches every spectator.",
+			"answers": ["romantic", "ridiculous", "unpractical", "absurd"],
+			"correct": "romantic",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"34",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "________ an honest man, he never tells a lie. ",
+			"answers": ["Being", "Be", "Since", "To be"],
+			"correct": "Being",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"35",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "The education _______ for the coming year is about $4 billion, which is much more than what people expected. ",
+			"answers": ["allowance", "reservation", "budget", "finance"],
+			"correct": "budget",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"36",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "I wonder how long ago this school __________.",
+			"answers": ["has begun", "begins", "began", "had begun"],
+			"correct": "began",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"37",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "These problems are hard to _______. ",
+			"answers": ["tackle", "challenge", "relieve", "establish"],
+			"correct": "tackle",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"38",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "When I returned home, I found the window open and something ________. ",
+			"answers": ["to steal", "stealing", "stolen", "steal"],
+			"correct": "stolen",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"39",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "Most of our meetings were ____ to discussing the housing reform. ",
+			"answers": ["used", "spent", "devoted", "located"],
+			"correct": "devoted",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"40",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "—Alice, why didn’t you come to the party yesterday?  —I _______, but I had an unexpected visitor.",
+			"answers": ["had", "would", "was going to", "did"],
+			"correct": "was going to",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"41",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "When I caught him cheating me, I stopped ＿＿ things in his shop.",
+			"answers": ["buying", "buy", "to buy", "bought"],
+			"correct": "buying",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"42",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "This new instrument is far superior _____ the old one we bought three years ago. ",
+			"answers": ["than", "to", "over", "of"],
+			"correct": "to",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"43",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "I left for office earlier than usual this morning _______ traffic jam.",
+			"answers": ["in line with", "for the sake of", "in case of", "at the risk of"],
+			"correct": "in case of",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"44",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "His mother had talked to him for many minutes while he was watching TV, but _____. ",
+			"answers": ["a little did he hear", "little did he hear", "little heard he", "a little heard he"],
+			"correct": "little did he hear",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"45",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "This ________ be a woman's watch. It must be a man's.",
+			"answers": ["may not", "cannot", "shall not", "must not"],
+			"correct": "cannot",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"46",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "_______ it or not, his discovery has created a stir in scientific circles. ",
+			"answers": ["Believe", "To believe", "Believing", "Believed"],
+			"correct": "Believe",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"47",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "―They are going to a ____ place to have a ____ discussion about the problem. Will you join them, Tom?  ―Sorry, I'll be___ next week. ",
+			"answers": ["far; further; far busy", "farther; farther; busier", "further; farther; much busy", "farther; further; much busier"],
+			"correct": "farther; further; much busier",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"48",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "I will not _______ my children be treated in such a way. ",
+			"answers": ["permit", "admit", "allow", "let"],
+			"correct": "let",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"49",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "The new English dictionary I bought yesterday ________ me almost twenty Yuan.",
+			"answers": ["spent", "paid", "cost", "took"],
+			"correct": "cost",
 			"analysis": "<p></p><p></p>"
 		},{
 			"id":"50",
-			"content": "",
-			"answers": ["", "", "", ""],
-			"correct": "",
+			"content": "We are looking forward to ＿＿＿ the film ＿＿＿＿ at the Grand Theatre.",
+			"answers": ["seeing; to show", "seeing; shown", "see; shown", "see; to show"],
+			"correct": "seeing; shown",
 			"analysis": "<p></p><p></p>"
 		}
 	],
