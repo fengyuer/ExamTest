@@ -47,7 +47,14 @@ export default new Router({
     {
       path: '/computer1',
       name: 'computer1',
-      component: resolve => require(['@/views/2018Spring/computer'], resolve)
+      component: resolve => require(['@/views/2018Spring/computer'], resolve),
+      children: [
+        {
+          path: '/ctest1',
+          name: 'ctest1',
+          component: resolve => require(['@/views/2018Spring/computer/11'], resolve)
+        }
+      ]
     },
     // //////// 拓展
     {

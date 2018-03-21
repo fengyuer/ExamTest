@@ -3,9 +3,13 @@ const axios = require('axios')
 const express = require('express')
 const app = express()
 const appData = require('../data.json')
+
 const English = appData.English
 const math = appData.math
 const Computer = appData.Computer
+const computer2018 = appData.spring2018.commputer
+
+
 const apiRoutes = express.Router()
 app.use('/api',apiRoutes)
 
@@ -49,6 +53,12 @@ const devWebpackConfig = merge(baseWebpackConfig, {
         res.json({
           errno: 0,
           data: Computer
+        })
+      })
+      app.get('/api/computer2018',(req,res) => {
+        res.json({
+          errno: 0,
+          data: computer2018
         })
       })
     },

@@ -757,5 +757,575 @@
 			"correct": "文件菜单中的“页面设置”命令",
 			"analysis": "<p>无</p>"
 		}
-	]
+	],
+	"spring2018":{
+		"English": [],
+		"network": [],
+		"web": [],
+		"commputer":{
+			"test11":[
+				{
+					"id": "1",
+					"content": "第一台电子计算机是1946年在美国研制成功的，该机的英文缩写名是      。",
+					"answers": ["ENIAC", "EDVAC", "EDSAC", "MARK"],
+					"correct": "ENIAC",
+					"analysis": "<p>本题考查有关电子数字计算机的起源与历史沿革方面的知识。</p><p>一般认为，世界上第一台电子数字计算机于1946年在美国宾夕法尼亚大学研制成功。该计算机的名称为ENIAC。</p>"
+				},{
+					"id": "2",
+					"content": "关于计算机的分类方法有多种，下列选项中不属于按计算机处理数据的方式进行分类的是      。",
+					"answers": ["电子数字计算机", "通用计算机", "电子模拟计算机", "数模混合计算机"],
+					"correct": "通用计算机",
+					"analysis": "<p>本题考查有关计算机分类的知识。</p><p>按计算机处理数据的方式进行分类有电子数字计算机、电子模拟计算机和数模混合计算机。</p><p>按计算机使用范围分类有<b>通用计算机</b>和<b>专用计算机</b>两种</p>"
+				},{
+					"id": "3",
+					"content": "为了实现自动控制处理，需要计算机具有的基础条件是      。",
+					"answers": ["存储程序", "高速度与高精度", "可靠性与可用性", "连网能力"],
+					"correct": "",
+					"analysis": "<p>本题考查有关计算机自动控制能力这一特点的相关知识。</p><p>计算机具有自动控制处理能力。存储程序是计算机工作的一个重要原则，这是计算机能自动控制处理的基础。</p>"
+				},{
+					"id": "4",
+					"content": "当前计算机已应用于各种行业、各种领域，而计算机最早的设计是应用于      。",
+					"answers": ["数据处理", "科学计算", "辅助设计", "过程控制"],
+					"correct": "科学计算",
+					"analysis": "<p>本题考查有关计算机应用方面的知识。</p><p>计算机已普及到各行各业、各种领域，已经无所不在。但早期的电子数字计算机的设计目的是用于快速计算，着重用于军事。而随着计算机技术的发展与应用需求的增加，计算机从主要用于科学和工程计算发展到从事数据处理、辅助设计和过程控制以及人工智能等。</p>"
+				},{
+					"id": "5",
+					"content": "在计算机领域，信息是经过转化而成为计算机能够处理的      。",
+					"answers": ["数据", "符号", "图形", "数字"],
+					"correct": "数据",
+					"analysis": "<p>本题考查有关信息基本概念的知识。</p><p>信息是人们由客观事物得到的。在计算机领域，信息是经过转化而成为计算机能够处理的数据，同时也是经过计算机处理后作为问题解答而输出的数据。</p>"
+				},{
+					"id": "6",
+					"content": "计算机系统由硬件系统和软件系统两部分组成，下列选项中不属于硬件系统的是      。",
+					"answers": ["中央处理器", "内存储器", "I/O设备", "系统软件"],
+					"correct": "系统软件",
+					"analysis": "<p>本题考查计算机系统基本组成的相关知识。</p><p>计算机系统由硬件系统和软件系统两个部分组成。其中硬件系统包含主机（中央处理器、内存储器）和外设（输入输出设备、外存储器等）两个部分，软件系统包含系统软件与应用软件两部分。</p>"
+				},{
+					"id": "7",
+					"content": "计算机的硬件系统由五大部分组成，下列各项中不属于这五大部分的是      。",
+					"answers": ["运算器", "软件", "I/O设备", "控制器"],
+					"correct": "软件",
+					"analysis": "<p>本题考查计算机系统的基本组成。</p><p>计算机是能对输入的信息进行加工，并能输出加工结果的电子设备。一个计算机系统由硬件系统和软件系统构成。一般计算机硬件系统的主要组成部件有运算器、控制器、存储器、输入设备和输出设备五大部分以及将这五大部件连接为一体的总线。</p>"
+				},{
+					"id": "8",
+					"content": "计算机内部用于处理数据和指令的编码是      。",
+					"answers": ["十进制码", "二进制码", "ASCII码", "汉字编码"],
+					"correct": "二进制码",
+					"analysis": "<p>本题考查对计算机各种编码的理解。</p><p>计算机在实现其计算和表示功能时，采用了多种编码方式。出于对物理因素的考虑，计算机在内部均采用二进制，它由0和1两种状态表示，并采用二进制数进行运算，再将二进制数转换成十进制数输出以便于人们的理解。ASCII码是美国标准信息交换代码的缩写，它用于规定字符的编码。汉字编码则是为适应计算机汉字信息处理的需要而制定的，它规定了汉字的机内表示标准。</p>"
+				},{
+					"id": "9",
+					"content": "计算机软件分为系统软件和应用软件两大类，下列各项中不属于系统软件的是      。",
+					"answers": ["操作系统", "办公软件", "数据库管理系统", "系统支持和服务程序"],
+					"correct": "办公软件",
+					"analysis": "<p>本题考查计算机软件分类的相关知识。</p><p>计算机软件分为系统软件和应用软件两大类，其中系统软件是计算机系统的基本软件，也是计算机系统必备的软件，它包括操作系统、各种语言及其处理程序、系统支持和服务程序、数据库管理系统4个方面的软件。应用软件是为解决计算机各类应用问题而编制的软件系统，具有很强的实用性，主要分为用户程序和应用软件包两种。</p>"
+				},{
+					"id": "10",
+					"content": "二进制数10110001相对应的十进制数应是      。",
+					"answers": ["123", "167", "179", "177"],
+					"correct": "177",
+					"analysis": "<p>本题考查数制转换知识。</p><p>按照二进制数到十进制数的转换方法，转换过程如下：</p><p>(10110001)2=1×27+0×26+1×25+1×24+0×23+0×22+0×21+1×20</p><p>=128+0+32+16+0+0+0+1=(177) 10</p>"
+				},{
+					"id": "11",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "12",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "13",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "14",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "15",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				}
+
+			],
+			"test12":[
+				{
+					"id": "1",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "2",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "3",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "4",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "5",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "6",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "7",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "8",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "9",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "10",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "11",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "12",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "13",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "14",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "15",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "16",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "17",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "18",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "19",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				}
+			],
+			"test3":[
+				{
+					"id": "1",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "2",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "3",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "4",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "5",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "6",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "7",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "8",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "9",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "10",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "11",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "12",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "13",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "14",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "15",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "16",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "17",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "18",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "19",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				}
+			],
+			"test4":[
+				{
+					"id": "1",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "2",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "3",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "4",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "5",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "6",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "7",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "8",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "9",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "10",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "11",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "12",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "13",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "14",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "15",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "16",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "17",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "18",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "19",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				}
+			],
+			"test5":[
+				{
+					"id": "1",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "2",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "3",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "4",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "5",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "6",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "7",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "8",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "9",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "10",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "11",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "12",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "13",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "14",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "15",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "16",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "17",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "18",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				},{
+					"id": "19",
+					"content": "",
+					"answers": [],
+					"correct": "",
+					"analysis": "<p></p><p></p>"
+				}
+			]
+
+		}
+	}
 }
