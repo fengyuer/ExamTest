@@ -12,6 +12,7 @@ export default new Router({
       name: 'enter',
       component: Enter
     },
+    // //////////////////////////// 入学考试
     {
       path: '/English',
       name: 'English',
@@ -27,6 +28,28 @@ export default new Router({
       name: 'computer',
       component: resolve => require(['@/views/computer'], resolve)
     },
+    // //////////////////////////////// 2018年春
+    {
+      path: '/English1',
+      name: 'English1',
+      component: resolve => require(['@/views/2018Spring/english'], resolve)
+    },
+    {
+      path: '/network1',
+      name: 'network1',
+      component: resolve => require(['@/views/2018Spring/network'], resolve)
+    },
+    {
+      path: '/web1',
+      name: 'web1',
+      component: resolve => require(['@/views/2018Spring/web'], resolve)
+    },
+    {
+      path: '/computer1',
+      name: 'computer1',
+      component: resolve => require(['@/views/2018Spring/computer'], resolve)
+    },
+    // //////// 拓展
     {
       path: '/daozhuangju',
       name: 'daozhuangju',
