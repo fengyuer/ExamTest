@@ -42,7 +42,14 @@ export default new Router({
     {
       path: '/web1',
       name: 'web1',
-      component: resolve => require(['@/views/2018Spring/web'], resolve)
+      component: resolve => require(['@/views/2018Spring/web'], resolve),
+      children: [
+        {
+          path: '/wTest1',
+          name: 'wTest1',
+          component: resolve => require(['@/views/2018Spring/web/web01'], resolve)
+        }
+      ]
     },
     {
       path: '/computer1',
