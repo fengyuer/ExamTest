@@ -1,6 +1,6 @@
 <template>
     <div>
-        <list-template :subject="'第一章 计算机基础知识 例题'" :list="testList"></list-template>
+        <list-template :subject="'第一章 计算机基础知识 1.3例题'" :list="testList"></list-template>
     </div>
 </template>
 <script>
@@ -30,7 +30,6 @@ export default {
             })
         }
     }
-  
 }
 </script>
 
