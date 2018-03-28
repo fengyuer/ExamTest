@@ -860,154 +860,154 @@
 			"test12":[
 				{
 					"id": "1",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p><p></p>"
+					"content": "自计算机问世至今已经经历了四个时代，划分时代的主要依据是计算机的      。",
+					"answers": ["规模", "功能", "性能", "构成元件"],
+					"correct": "构成元件",
+					"analysis": "<p>P2</p><p></p><p></p><p></p><p></p>"
 				},{
 					"id": "2",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p><p></p>"
+					"content": "一般认为，世界上第一台电子数字计算机诞生于      。",
+					"answers": ["1946年", "1952年", "1959年", "1962年"],
+					"correct": "1946年",
+					"analysis": "<p>P2</p><p></p><p></p><p></p><p></p>"
 				},{
 					"id": "3",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p><p></p>"
+					"content": "世界上第一台电子数字计算机采用的电子器件是      。",
+					"answers": ["大规模集成电路", "集成电路", "晶体管", "电子管"],
+					"correct": "电子管",
+					"analysis": "<p>P2</p><p></p><p></p><p></p><p></p>"
 				},{
 					"id": "4",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "第一代计算机体积大、耗电多、性能低，其主要原因是受制于      。",
+					"answers": ["工艺水平", "元器件", "设计水平", "原材料"],
+					"correct": "元器件",
 					"analysis": "<p></p><p></p><p></p><p></p><p></p>"
 				},{
 					"id": "5",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "第二代电子计算机的主要元件是      。",
+					"answers": ["继电器", "晶体管", "电子管", "集成电路"],
+					"correct": "晶体管",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "6",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": "以集成电路为基本元件的第三代计算机出现的时间为      。",
+					"answers": ["1965—1970", "1964—1975", "1960—1969", "1950—1970"],
+					"correct": "1965—1970",
+					"analysis": "<p>P3</p><p></p><p></p><p></p>"
 				},{
 					"id": "7",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": "第三代计算机采用的主要电子器件为      。",
+					"answers": ["电子管", "小规模集成电路", "大规模集成电路", "晶体管"],
+					"correct": "小规模集成电路",
+					"analysis": "<p>P3</p><p></p><p></p><p></p>"
 				},{
 					"id": "8",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "采用超大规模集成电路的计算机是计算机发展中的      。",
+					"answers": ["第4代", "第3代", "第2代", "第1代"],
+					"correct": "第4代",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "9",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "当前的计算机一般被认为是第四代计算机，它所采用的逻辑元件是      。",
+					"answers": ["晶体管", "集成电路", "电子管", "大规模集成电路"],
+					"correct": "大规模集成电路",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "10",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": "Intel公司使用LSI率先推出微处理器4004，宣布第四代计算机问世是在      ",
+					"answers": ["1946年", "1958年", "1965年", "1971年"],
+					"correct": "1971年",
+					"analysis": "<p>P3</p><p></p><p></p><p></p>"
 				},{
 					"id": "11",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": "计算机可分为数字计算机、模拟计算机和混合计算机，这种分类的依据是计算机的      。",
+					"answers": ["功能和价格", "性能和规律", "处理数据的方式", "使用范围"],
+					"correct": "处理数据的方式",
+					"analysis": "<p>P3</p><p></p><p></p><p></p>"
 				},{
 					"id": "12",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "电子计算机按使用范围分类，可以分为      。",
+					"answers": ["电子数字计算机和电子模拟计算机", "科学与过程计算计算机、工业控制计算机和数据计算机", "通用计算机和专用计算机", "巨型计算机、大中型机、小型计算机和微型计算机"],
+					"correct": "通用计算机和专用计算机",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "13",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "某型计算机峰值性能为数千亿次/秒，主要用于大型科学与工程计算和大规模数据处理，它属于      。",
+					"answers": ["巨型计算机", "小型计算机", "微型计算机", "专用计算机"],
+					"correct": "巨型计算机",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "14",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": "电子计算机按规模划分，可以分为      。",
+					"answers": ["数字电子计算机和模拟电子计算机", "通用计算机和专用计算机", "科学与过程计算计算机、工业控制计算机和数据计算机", "巨型计算机、大中型机、小型计算机和微型计算机"],
+					"correct": "巨型计算机、大中型机、小型计算机和微型计算机",
+					"analysis": "<p>P4</p><p></p><p></p><p></p>"
 				},{
 					"id": "15",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": "个人计算机属于      。",
+					"answers": ["微型计算机", "小型计算机", "中型计算机", "小巨型计算机"],
+					"correct": "微型计算机",
+					"analysis": "<p>P12</p><p></p><p></p><p></p>"
 				},{
 					"id": "16",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": "既可以接收、处理和输出模拟量，也可以接收、处理和输出数字量的是      。",
+					"answers": ["电子数字计算机", "电子模拟计算机", "数模混合计算机", "通用计算机"],
+					"correct": "数模混合计算机",
+					"analysis": "<p>P4</p><p></p><p></p><p></p>"
 				},{
 					"id": "17",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": "列关于通用计算机的描述中，不正确的是      。",
+					"answers": ["用于解决不同类型问题而设计", "用途广泛", "是一种用途广泛、结构复杂的计算机", "只可进行科学计算"],
+					"correct": "只可进行科学计算",
+					"analysis": "<p>p4</p><p></p><p></p><p></p>"
 				},{
 					"id": "18",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": "下列关于专用计算机的描述中，不正确的是      。",
+					"answers": ["用途广泛", "针对性强、效率高", "结构相对简单", "为某种特定目的而设计"],
+					"correct": "用途广泛",
+					"analysis": "<p>p4</p><p></p><p></p><p></p>"
 				},{
 					"id": "19",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": "电子数字计算机的运算对象是      。",
+					"answers": ["模拟量", "混合量", "脉冲", "不连续量"],
+					"correct": "不连续量",
+					"analysis": "<p>P4</p><p>电子数字计算机以<b>数字量</b>(也称<b>不连续量</b>)作为运算对象进行运算</p><p></p><p></p>"
 				},{
 					"id": "20",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "将计算机分为巨型计算机、微型计算机和工作站的分类标准是      。",
+					"answers": ["计算机处理数据的方式", "计算机的使用范围", "计算机的规模和处理能力", "计算机出现的时间"],
+					"correct": "计算机的规模和处理能力",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "21",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "以下不属于电子数字计算机特点的是      。",
+					"answers": ["运算快速", "计算精度高", "形状粗笨", "通用性强"],
+					"correct": "形状粗笨",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "22",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": "计算机可以进行自动处理的基础是      。",
+					"answers": ["存储程序", "快速运算", "能进行逻辑判断", "计算精度高"],
+					"correct": "存储程序",
+					"analysis": "<p>P4</p><p></p><p></p><p></p>"
 				},{
 					"id": "23",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "计算机进行数值计算时的高精确度主要决定于      。",
+					"answers": ["计算速度", "内存容量", "外存容量", "基本字长"],
+					"correct": "基本字长",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "24",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": "计算机具有的逻辑判断能力，主要取决于      。",
+					"answers": ["硬件", "体积", "编制的软件", "基本字长"],
+					"correct": "编制的软件",
+					"analysis": "<p>P5</p><p></p><p></p><p></p>"
 				},{
 					"id": "25",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": "计算机的通用性使其可以求解不同的算术和逻辑问题，这主要取决于计算机的      。",
+					"answers": ["高速运算", "指令系统", "可编程性", "存储功能"],
+					"correct": "可编程性",
+					"analysis": "<p>P5</p><p></p><p></p><p></p>"
 				},{
 					"id": "26",
 					"content": "",

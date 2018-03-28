@@ -17,9 +17,12 @@ export default {
         return{
             list: [
                 {
-                    name: '第1章 计算机基础知识',
-                    pathName: 'ctest1'
-                }
+                    name: '第1章 计算机基础知识 - 1.3',
+                    pathName: 'ctest13'
+                },{
+                    name: '第1章 计算机基础知识 - 1.4',
+                    pathName: 'ctest14'
+                },
             ]
         }
     },

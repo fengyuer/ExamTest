@@ -50,9 +50,13 @@ export default new Router({
       component: resolve => require(['@/views/2018Spring/computer'], resolve),
       children: [
         {
-          path: '/ctest1',
-          name: 'ctest1',
+          path: '/ctest13',
+          name: 'ctest13',
           component: resolve => require(['@/views/2018Spring/computer/11'], resolve)
+        }, {
+          path: '/ctest14',
+          name: 'ctest14',
+          component: resolve => require(['@/views/2018Spring/computer/14'], resolve)
         }
       ]
     },
