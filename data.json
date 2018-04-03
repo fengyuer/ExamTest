@@ -1160,304 +1160,304 @@
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "51",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "在下面的描述中，正确的是      。",
+					"answers": ["外存中的信息可直接被CPU处理", "键盘是输入设备，显示器是输出设备", "操作系统是一种很重要的应用软件", "计算机中使用的汉字编码和ASCII码是相同的"],
+					"correct": "键盘是输入设备，显示器是输出设备",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "52",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "一个完备的计算机系统应该包含计算机的      。",
+					"answers": ["主机和外设", "硬件和软件", "CPU和存储器", "控制器和运算器"],
+					"correct": "硬件和软件",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
-					"id": "13",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"id": "53",
+					"content": "计算机系统由两大部分组成，它们是      。",
+					"answers": ["系统软件和应用软件", "主机和外部设备", "硬件系统和软件系统", "输入设备和输出设备"],
+					"correct": "硬件系统和软件系统",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "54",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "构成计算机物理实体的部件被称为      。",
+					"answers": ["计算机系统", "计算机硬件", "计算机软件", "计算机程序"],
+					"correct": "计算机硬件",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "55",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "组成计算机主机的主要是      。",
+					"answers": ["运算器和控制器", "中央处理器和主存储器",  "运算器和外设", "运算器和存储器"],
+					"correct": "中央处理器和主存储器",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "56",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "微型计算机的微处理器芯片上集成了      。",
+					"answers": ["CPU和RAM", "控制器和运算器", "控制器和RAM", "运算器和I/O接口"],
+					"correct": "控制器和运算器",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "57",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "以下不属于计算机外部设备的是      。",
+					"answers": ["输入设备", "中央处理器和主存储器", "输出设备", "外存储器"],
+					"correct": "中央处理器和主存储器",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "58",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "以下说法中正确的是      。",
+					"answers": ["计算机系统包括硬件系统和软件系统", "小型机亦称为微机", "数字计算机可直接处理连续变化的模拟量", "主机包括CPU、显示器"],
+					"correct": "计算机系统包括硬件系统和软件系统",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "59",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": "计算机系统中运行的程序、数据及相应的文档的集合称为      。",
+					"answers": ["主机", "软件系统", "系统软件", "应用软件"],
+					"correct": "软件系统",
+					"analysis": "<p>P9 4) 软件的定义</p><p></p><p></p><p></p>"
 				},{
 					"id": "60",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "以下不属于计算机软件系统的是      。",
+					"answers": ["程序", "程序使用的数据", "外存储器", "与程序相关的文档"],
+					"correct": "外存储器",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "61",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "下面各组设备中，同时包括了输入设备、输出设备和存储设备的是      。",
+					"answers": ["CRT、CPU、ROM", "绘图仪、鼠标器、键盘", "鼠标器、绘图仪、光盘", "磁带、打印机、激光印字机"],
+					"correct": "鼠标器、绘图仪、光盘",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "62",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "个人计算机（PC）必备的外部设备是      。",
+					"answers": ["键盘和鼠标", "显示器和键盘", "键盘和打印机", "显示器和扫描仪"],
+					"correct": "显示器和键盘",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "63",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "在微型计算机的各种设备中，既用于输入又可用于输出的设备是      。",
+					"answers": ["磁盘驱动器", "键盘", "鼠标", "绘图仪"],
+					"correct": "磁盘驱动器",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "64",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "冯·诺依曼结构计算机的五大基本构件包括运算器、存储器、输入设备、输出设备和      。",
+					"answers": ["显示器", "控制器", "硬盘存储器", "鼠标器"],
+					"correct": "控制器",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "65",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "时至今日，计算机仍采用“存储程序”原理，原理的提出者是      。",
+					"answers": ["莫尔", "比尔·盖茨", "冯·诺依曼", "科得（E. F. Codd）"],
+					"correct": "冯·诺依曼",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "66",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "冯·诺依曼计算机的基本原理是      。",
+					"answers": ["程序外接", "逻辑连接", "数据内置", "程序存储"],
+					"correct": "程序存储",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "67",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "计算机中，运算器的主要功能是完成      。",
+					"answers": ["代数和逻辑运算", "代数和四则运算", "算术和逻辑运算", "算术和代数运算"],
+					"correct": "算术和逻辑运算",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "68",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "计算机系统中用来保存程序和数据，以及运算的中间结果和最后结果的装置是      。",
+					"answers": ["RAM", "内存和外存", "ROM", "高速缓存"],
+					"correct": "内存和外存",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "69",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": "超市收款台检查货物的条形码，这属于对计算机系统的信息      。",
+					"answers": ["输入", "输出", "显示", "打印"],
+					"correct": "输入",
+					"analysis": "<p>**</p><p></p><p></p><p></p>"
 				},{
 					"id": "70",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "下列不属于输入设备的是      。",
+					"answers": ["光笔", "打印机", "键盘", "鼠标"],
+					"correct": "打印机",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "71",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": "在计算机领域中，通常用大写英文字母B来表示      。",
+					"answers": ["字", "字长", "字节", "二进制位"],
+					"correct": "字节",
+					"analysis": "<p>字（word）</p>字节(B)<p></p><p></p><p></p>"
 				},{
 					"id": "72",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": "指令的操作码表示的是      。",
+					"answers": ["做什么操作", "停止操作", "操作结果", "操作地址"],
+					"correct": "做什么操作",
+					"analysis": "<p>*</p><p></p><p></p><p></p>"
 				},{
 					"id": "73",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "为解决某一特定的问题而设计的指令序列称为      。",
+					"answers": ["文档", "语言", "系统", "程序"],
+					"correct": "程序",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "74",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": "计算机一次能处理数据的最大位数称为该机器的      。",
+					"answers": ["字节", "字长", "处理速度", "存储容量"],
+					"correct": "字长",
+					"analysis": "<p>P8</p><p>通常我们把计算机一次所能处理数据的最大位数称为该机器的<b>字长</b>。</p><p>字长越长，一次所处理数据的有效位数就越多，计算精度就越高</p><p>因此，字长是计算机性能的一个重要标志</p>"
 				},{
 					"id": "75",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "与计算机的计算精度密切相关的指标是      。",
+					"answers": ["字节", "字长", "处理速度", "存储容量"],
+					"correct": "字长",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "76",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": "衡量计算机存储能力的指标是      。",
+					"answers": ["字节", "字长", "处理速度", "存储容量"],
+					"correct": "存储容量",
+					"analysis": "<p>详见P8</p><p><b>储存容量是衡量计算机存储能力的重要标志，是用字节(B)来计算和表示的</b></p><p></p><p></p>"
 				},{
 					"id": "77",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "计算机内部用于处理数据和指令的编码是      。",
+					"answers": ["十进制码", "二进制码", "ASCII码", "汉字编码"],
+					"correct": "二进制码",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "78",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "在计算机中，信息的最小单位是      。",
+					"answers": ["字节", "位", "字", "KB"],
+					"correct": "位",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "79",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "在计算机领域中，通常用英文单词“byte”来表示      。",
+					"answers": ["字", "字长", "字节", "二进制位"],
+					"correct": "字节",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "80",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": " 8个字节含二进制位      。",
+					"answers": ["8个", "16个", "32个", "64个"],
+					"correct": "64个",
+					"analysis": "<p>1B (字节) = 8b (位)</p><p>详见P8</p>"
 				},{
 					"id": "81",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": "计算机能解决有大量数据和程序语句的问题，起主要作用的因素是      。",
+					"answers": ["大尺寸的彩显", "快速的打印机", "大容量内外存储器", "好的程序设计语言"],
+					"correct": "大容量内外存储器",
+					"analysis": "<p>*</p><p></p><p></p><p></p>"
 				},{
 					"id": "82",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "通常所说的“裸机”是指计算机仅有      。",
+					"answers": ["硬件系统", "软件", "指令系统", "CPU"],
+					"correct": "硬件系统",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "83",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "能够将高级语言源程序加工为目标程序的系统软件是      。",
+					"answers": ["解释程序", "汇编程序", "编译程序", "编辑程序"],
+					"correct": "编译程序",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "84",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "计算机系统应包括硬件和软件两部分，软件又必须包括      。",
+					"answers": ["接口软件", "系统软件", "应用软件", "支撑软件"],
+					"correct": "系统软件",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "85",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "下列计算机软件中，属于系统软件的是      。",
+					"answers": ["用C语言编写的求解一元二次方程的程序", "工资管理软件", "用汇编语言编写的一个练习程序", "Windows操作系统"],
+					"correct": "Windows操作系统",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "86",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "计算机操作系统是一种      。",
+					"answers": ["系统软件", "应用软件", "工具软件", "调试软件"],
+					"correct": "系统软件",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "87",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "下列4种软件中属于应用软件的是      。",
+					"answers": ["财务管理系统", "DOS", "Windows 98", "Windows 2000"],
+					"correct": "财务管理系统",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "88",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "某单位的人事管理程序属于      。",
+					"answers": ["系统程序", "系统软件", "应用软件", "目标软件"],
+					"correct": "应用软件",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "89",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "计算机执行某种操作的命令被称为      。",
+					"answers": ["指令", "程序", "程序设计语言", "指令系统"],
+					"correct": "指令",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "90",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "为解决某一问题而设计的一系列有序的语句的集合被称为      。",
+					"answers": ["指令", "程序", "程序设计语言", "指令系统"],
+					"correct": "程序",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "91",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "与二进制数11111110等值的十进制数是      。",
+					"answers": ["251", "252", "253", "254"],
+					"correct": "254",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "92",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": "计算机中的所有信息都是以二进制方式表示的，主要理由是      。",
+					"answers": ["运算速度快", "节约元件", "所需的物理元件最简单", "信息处理方便"],
+					"correct": "所需的物理元件最简单",
+					"analysis": "<p>详见P8</p><p>计算机中的所有数据都是二进制表示的。</p><p>这样做的主要原因是所需要的物理原件简单、电路设计容易、运算简单、工作可靠且逻辑性强。</p>"
 				},{
 					"id": "93",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "十进制数向二进制数进行转换时，十进制数91相当于二进制数      。",
+					"answers": ["1101011", "1101111", "1110001", "1011011"],
+					"correct": "1011011",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "94",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "在计算机内部，数据加工、处理和传送的形式是      。",
+					"answers": ["二进制码", "八进制码", "十进制码", "十六进制码"],
+					"correct": "二进制码",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "95",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": "下列四组数应依次为二进制、八进制和十六进制，符合这个要求的是      。",
+					"answers": ["11，78，19", "12，77，10", "12，80，10", "11，77，19"],
+					"correct": "11，77，19",
+					"analysis": "<p>十进制： “逢十进一”</p><p>二进制： “逢二进一”</p><p>八进制： “逢八进一”</p><p>十六进制：“逢十六进一” ，有16个数码：0，1，2，3，4，5，6，7，8，9，A,B,C,D,E,F</p>"
 				},{
 					"id": "96",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": "下列数据中，采用二进制形式表示的是      。",
+					"answers": ["36D", "1010B", "76O", "54H"],
+					"correct": "1010B",
+					"analysis": "<p>详见P11</p><p>D：十进制(decimal system)</p><p>B: 二进制(binary system)</p><p>O: 八进制(Octal)</p><p>H: 十六进制(Hexadecimal)</p><p></p>"
 				},{
 					"id": "97",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": "在下列4个数中数值最大的是      。",
+					"answers": ["123D", "111101B", "56O", "80H"],
+					"correct": "80H",
+					"analysis": "<p>111101B = 61D</p><p>56O = 46D</p><p>80H=128D</p>"
 				},{
 					"id": "98",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": "下列各类进制的整数中，值最大的是      。",
+					"answers": ["十进制数11", "八进制数11", "十六进制数11", "二进制数11"],
+					"correct": "十六进制数11",
+					"analysis": "<p>11O = 9D</p><p>11H = 17D</p><p>11B = 3D</p><p></p>"
 				},{
 					"id": "99",
-					"content": "",
-					"answers": [],
-					"correct": "",
+					"content": "十进制数512转换成二进制数是      。",
+					"answers": ["111011101B", "1111111111B", "100000000B", "1000000000B"],
+					"correct": "1000000000B",
 					"analysis": "<p></p><p></p><p></p><p></p>"
 				},{
 					"id": "100",
-					"content": "",
-					"answers": [],
-					"correct": "",
-					"analysis": "<p></p><p></p><p></p><p></p>"
+					"content": "在R进制数中，能使用的最小数字符号是      。",
+					"answers": ["0", "1", "-1", "R-1"],
+					"correct": "0",
+					"analysis": "<p>R进制的数码个数（即基数）是R，表示为：0~R-1， 比如：</p><p>二进制的数码有两个：0、1 。最小数码为0，最大数码为1。基数为2。</p><p>八进制的数码有八个： 0、1、2、3、4、5、6、7。最小数码为0，最大数码为7。基数为8。</p><p>十进制的数码有十个：0、1、2、3、4、5、6、7、8、9。最小数码为0，最大数码为9。基数为10。</p><p>十六进制的数码有十六个：0、1、2、3、4、5、6、7、8、9、A、B、C、D、E、F。最小数码为0，最大数码为F。基数为16。</p><p><a href='https://zhidao.baidu.com/question/535643815.html'>点击查看详情</a></p>"
 				},{
 					"id": "101",
 					"content": "",
