@@ -1,6 +1,6 @@
 <template>
     <div>
-        <list-template :subject="'第一章 计算机基础知识 1.3例题'" :list="testList"></list-template>
+        <list-template :subject="'第一章 自测题'" :list="testList"></list-template>
     </div>
 </template>
 <script>
@@ -23,9 +23,9 @@ export default {
     },
     methods:{
         getData(){
-            axios.get('/api/computer2018').then(res => {
+            axios.get('/api/web2018').then(res => {
                 if(!res) return
-                this.testList = res.data.data.test11
+                this.testList = res.data.data.test01
                 console.log(this.testList)
             })
         }
