@@ -42,6 +42,22 @@ export default new Router({
           path: '/eTest2',
           name: 'eTest2',
           component: resolve => require(['@/views/2018Spring/English/English02'], resolve)
+        }, {
+          path: '/eTest3',
+          name: 'eTest3',
+          component: resolve => require(['@/views/2018Spring/English/English03'], resolve)
+        }, {
+          path: '/eTest4',
+          name: 'eTest4',
+          component: resolve => require(['@/views/2018Spring/English/English04'], resolve)
+        }, {
+          path: '/eTest5',
+          name: 'eTest5',
+          component: resolve => require(['@/views/2018Spring/English/English05'], resolve)
+        }, {
+          path: '/eTest6',
+          name: 'eTest6',
+          component: resolve => require(['@/views/2018Spring/English/English06'], resolve)
         }
       ]
     },
