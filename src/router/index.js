@@ -32,7 +32,18 @@ export default new Router({
     {
       path: '/English1',
       name: 'English1',
-      component: resolve => require(['@/views/2018Spring/english'], resolve)
+      component: resolve => require(['@/views/2018Spring/English'], resolve),
+      children: [
+        {
+          path: '/eTest1',
+          name: 'eTest1',
+          component: resolve => require(['@/views/2018Spring/English/English01'], resolve)
+        }, {
+          path: '/eTest2',
+          name: 'eTest2',
+          component: resolve => require(['@/views/2018Spring/English/English02'], resolve)
+        }
+      ]
     },
     {
       path: '/network1',
