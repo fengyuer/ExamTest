@@ -8,6 +8,7 @@ const English = appData.English
 const math = appData.math
 const Computer = appData.Computer
 const computer2018 = appData.spring2018.commputer
+const web2018 = appData.spring2018.web
 
 
 const apiRoutes = express.Router()
@@ -59,6 +60,12 @@ const devWebpackConfig = merge(baseWebpackConfig, {
         res.json({
           errno: 0,
           data: computer2018
+        })
+      })
+      app.get('/api/web2018',(req,res) => {
+        res.json({
+          errno: 0,
+          data: web2018
         })
       })
     },
