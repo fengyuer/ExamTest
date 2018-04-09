@@ -20,6 +20,10 @@ export default {
                 {
                     name: '第1章 C语言概述',
                     pathName: 'wTest1'
+                },
+                {
+                    name: '第2章 数据与运算',
+                    pathName: 'wTest2'
                 }
             ]
         }
