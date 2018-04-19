@@ -24,6 +24,10 @@ export default {
                 {
                     name: '第2章 数据与运算',
                     pathName: 'wTest2'
+                },
+                {
+                    name: '第3章 C程序的基本控制结构',
+                    pathName: 'wTest3'
                 }
             ]
         }
