@@ -28,6 +28,10 @@ export default {
                 {
                     name: '第3章 C程序的基本控制结构',
                     pathName: 'wTest3'
+                },
+                {
+                    name: '第一次作业',
+                    pathName: 'wHomework1'
                 }
             ]
         }
