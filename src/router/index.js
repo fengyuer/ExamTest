@@ -83,6 +83,10 @@ export default new Router({
           path: '/wTest3',
           name: 'wTest3',
           component: resolve => require(['@/views/2018Spring/web/web03'], resolve)
+        }, {
+          path: '/wHomework1',
+          name: 'wHomework1',
+          component: resolve => require(['@/views/2018Spring/web/webHomework1'], resolve)
         }
       ]
     },
