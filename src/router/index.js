@@ -64,7 +64,26 @@ export default new Router({
     {
       path: '/network1',
       name: 'network1',
-      component: resolve => require(['@/views/2018Spring/network'], resolve)
+      component: resolve => require(['@/views/2018Spring/network'], resolve),
+      children: [
+        {
+          path: '/netHomework1',
+          name: 'netHomework1',
+          component: resolve => require(['@/views/2018Spring/network/netHomework1'], resolve)
+        }, {
+          path: '/netHomework2',
+          name: 'netHomework2',
+          component: resolve => require(['@/views/2018Spring/network/netHomework2'], resolve)
+        }, {
+          path: '/netHomework3',
+          name: 'netHomework4',
+          component: resolve => require(['@/views/2018Spring/network/netHomework3'], resolve)
+        }, {
+          path: '/netHomework4',
+          name: 'netHomework4',
+          component: resolve => require(['@/views/2018Spring/network/netHomework4'], resolve)
+        }
+      ]
     },
     {
       path: '/web1',
@@ -111,6 +130,10 @@ export default new Router({
       path: '/daozhuangju',
       name: 'daozhuangju',
       component: resolve => require(['@/views/expand/English/daozhuangju'], resolve)
+    },
+    {
+      path: '*',
+      redirect: '/'
     }
   ]
 })
