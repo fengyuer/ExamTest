@@ -76,7 +76,7 @@ export default new Router({
           component: resolve => require(['@/views/2018Spring/network/netHomework2'], resolve)
         }, {
           path: '/netHomework3',
-          name: 'netHomework4',
+          name: 'netHomework3',
           component: resolve => require(['@/views/2018Spring/network/netHomework3'], resolve)
         }, {
           path: '/netHomework4',

@@ -41,6 +41,11 @@
 
 }
 
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
 // $switchTop: 400px;
 $liLRSpace: 10px;
 $boxSpace: 30px;
@@ -73,6 +78,19 @@ $boxSpace: 30px;
                 position: absolute;
                 left: 0;
                 line-height: 150%;
+            }
+
+            table{
+                width: 100%;
+                margin: 10px;
+
+                th, td{
+                    padding: 5px 10px;
+                    border: 1px solid #ccc;
+                }
+                td{
+                    font-weight: normal
+                }
             }
 
             & + ol{
@@ -197,3 +215,4 @@ $boxSpace: 30px;
         padding-bottom: 40px;
     }
 }
+
