@@ -58,6 +58,10 @@ export default new Router({
           path: '/eTest6',
           name: 'eTest6',
           component: resolve => require(['@/views/2018Spring/English/English06'], resolve)
+        }, {
+          path: '/eHomework1',
+          name: 'eHomework1',
+          component: resolve => require(['@/views/2018Spring/English/eHomework1'], resolve)
         }
       ]
     },
