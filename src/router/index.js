@@ -110,6 +110,14 @@ export default new Router({
           path: '/wHomework1',
           name: 'wHomework1',
           component: resolve => require(['@/views/2018Spring/web/webHomework1'], resolve)
+        }, {
+          path: '/wTest4',
+          name: 'wTest4',
+          component: resolve => require(['@/views/2018Spring/web/web04'], resolve)
+        }, {
+          path: '/wHomework2',
+          name: 'wHomework2',
+          component: resolve => require(['@/views/2018Spring/web/homework2'], resolve)
         }
       ]
     },

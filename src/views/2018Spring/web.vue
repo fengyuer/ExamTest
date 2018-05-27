@@ -32,6 +32,14 @@ export default {
                 {
                     name: '第一次作业',
                     pathName: 'wHomework1'
+                },
+                {
+                    name: '第4章 数组',
+                    pathName: 'wTest4'
+                },
+                {
+                    name: '第二次作业',
+                    pathName: 'wHomework2'
                 }
             ]
         }
