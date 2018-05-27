@@ -1773,6 +1773,129 @@
 					"correct": "",
 					"analysis": "<p>正确答案是：</p><p></p><p></p><p></p>"
 				}
+			],
+			"homework1": [
+				{
+					"id": "1",
+					"content": "There’s lots of fruit_________ the tree. Our little cat is also in the tree.",
+					"answers": ["on", "in", "under", "at"],
+					"correct": "on",
+					"analysis": "<p>正确答案是：on</p><p>长在树上的用介词on</p><p></p><p></p><p></p>"
+				},{
+					"id": "2",
+					"content": "Robert, there's a man at the front door, saying he has _____news of great importance.",
+					"answers": ["an", "/", "the", "a"],
+					"correct": "/",
+					"analysis": "<p>正确答案是：/</p><p></p><p></p><p></p><p></p>"
+				},{
+					"id": "3",
+					"content": "If you ride your bike too fast, there may be _____accident.",
+					"answers": ["不填", "the", "an", "a"],
+					"correct": "an",
+					"analysis": "<p>正确答案是：an</p><p></p><p></p><p></p><p></p>"
+				},{
+					"id": "4",
+					"content": "He was hit at least twice in the legs and also in ______chest.",
+					"answers": ["one", "a", "the", "his"],
+					"correct": "the",
+					"analysis": "<p>正确答案是：the</p><p></p><p></p><p></p><p></p>"
+				},{
+					"id": "5",
+					"content": "Don't laugh ________ people when they are _____trouble.",
+					"answers": ["on… in…", "at….at…", "in….at…", "at… in…"],
+					"correct": "at… in…",
+					"analysis": "<p>正确答案是：at… in…</p><p>laugh at 嘲笑</p><p>be in trouble adv. 处于不幸中</p><p></p>"
+				},{
+					"id": "6",
+					"content": "Little Tom is used to getting up _______eight every morning.",
+					"answers": ["on", "in", "of", "at"],
+					"correct": "at",
+					"analysis": "<p>正确答案是：at</p><p>在几点中用at</p><p></p><p></p>"
+				},{
+					"id": "7",
+					"content": "The baby is hungry，but there's ____ milk in the bottle．",
+					"answers": ["few", "a little", "a few", "little"],
+					"correct": "little",
+					"analysis": "<p>正确答案是：little</p><p></p><p></p><p></p>"
+				},{
+					"id": "8",
+					"content": "They all go outing on such a warm spring day ______ Mark. He is busy with his lessons now.",
+					"answers": ["except for", "beside", "except", "besides"],
+					"correct": "except",
+					"analysis": "<p>正确答案是：except</p><p></p><p></p><p></p>"
+				},{
+					"id": "9",
+					"content": "",
+					"answers": ["", "", "", ""],
+					"correct": "",
+					"analysis": "<p>正确答案是：</p><p></p><p></p><p></p>"
+				},{
+					"id": "10",
+					"content": "",
+					"answers": ["", "", "", ""],
+					"correct": "",
+					"analysis": "<p>正确答案是：</p><p></p><p></p><p></p>"
+				},{
+					"id": "11",
+					"content": "",
+					"answers": ["", "", "", ""],
+					"correct": "",
+					"analysis": "<p>正确答案是：</p><p></p><p></p><p></p>"
+				},{
+					"id": "12",
+					"content": "",
+					"answers": ["", "", "", ""],
+					"correct": "",
+					"analysis": "<p>正确答案是：</p><p></p><p></p><p></p>"
+				},{
+					"id": "13",
+					"content": "",
+					"answers": ["", "", "", ""],
+					"correct": "",
+					"analysis": "<p>正确答案是：</p><p></p><p></p><p></p>"
+				},{
+					"id": "14",
+					"content": "",
+					"answers": ["", "", "", ""],
+					"correct": "",
+					"analysis": "<p>正确答案是：</p><p></p><p></p><p></p>"
+				},{
+					"id": "15",
+					"content": "",
+					"answers": ["", "", "", ""],
+					"correct": "",
+					"analysis": "<p>正确答案是：</p><p></p><p></p><p></p>"
+				},{
+					"id": "16",
+					"content": "",
+					"answers": ["", "", "", ""],
+					"correct": "",
+					"analysis": "<p>正确答案是：</p><p></p><p></p><p></p>"
+				},{
+					"id": "17",
+					"content": "",
+					"answers": ["", "", "", ""],
+					"correct": "",
+					"analysis": "<p>正确答案是：</p><p></p><p></p><p></p>"
+				},{
+					"id": "18",
+					"content": "",
+					"answers": ["", "", "", ""],
+					"correct": "",
+					"analysis": "<p>正确答案是：</p><p></p><p></p><p></p>"
+				},{
+					"id": "19",
+					"content": "",
+					"answers": ["", "", "", ""],
+					"correct": "",
+					"analysis": "<p>正确答案是：</p><p></p><p></p><p></p>"
+				},{
+					"id": "20",
+					"content": "",
+					"answers": ["", "", "", ""],
+					"correct": "",
+					"analysis": "<p>正确答案是：</p><p></p><p></p><p></p>"
+				}
 			]
 		},
 		"network": {

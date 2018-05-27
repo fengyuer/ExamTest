@@ -35,6 +35,9 @@ export default {
                 }, {
                     name: 'Unit 6 单元自测',
                     pathName: 'eTest6'
+                }, {
+                    name: '第一次作业',
+                    pathName: 'eHomework1'
                 }
             ]
         }
