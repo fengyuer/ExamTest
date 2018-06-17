@@ -40,6 +40,10 @@ export default {
                 {
                     name: '第二次作业',
                     pathName: 'wHomework2'
+                },
+                {
+                    name: '第5章 函数',
+                    pathName: 'wTest5'
                 }
             ]
         }

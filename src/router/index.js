@@ -118,7 +118,12 @@ export default new Router({
           path: '/wHomework2',
           name: 'wHomework2',
           component: resolve => require(['@/views/2018Spring/web/homework2'], resolve)
+        }, {
+          path: '/wTest5',
+          name: 'wTest5',
+          component: resolve => require(['@/views/2018Spring/web/web05'], resolve)
         }
+
       ]
     },
     {
